@@ -7,27 +7,51 @@ blockquote {
   @extend .blockquote;
 }
 
-img {
-  @extend .img-fluid;
-  margin-bottom: 1rem;
-}
-
 body {
     background-color: #ffecec;
+    color: #5d3737;
+}
+
+a {
+    color: #5d3737;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #ffbcd9;
 }
 
 .post {
     font-family: "Goudy Bookletter 1911", "Georgia", serif;
     font-size: 1.3em;
+    margin: auto;
+    max-width: 750px;
+}
+
+.post img {
+  @extend .img-fluid;
+  display: block;
+  margin: auto;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+  max-width: 75%;
 }
 
 .titlefont {
-    font-family: "Jua", "Comic Sans MS", sans-serif;
+  font-family: "Jua", "Comic Sans MS", sans-serif;
 }
 
 .navbar {
+  background-color: #ffecec;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
+  font-weight: bold;
+  text-align: bottom;
   margin-bottom: 2rem;
   border-bottom: 0.125rem solid hsl(0, 0%, 30%);
+}
+
+.navbar img {
+  max-width: 300px;
 }
 
 .archive-year {
@@ -65,8 +89,10 @@ body {
   color: #212529;
 }
 
-.archive-title {
+.archive-title, .archive-title:hover {
   color: #5d3737;
+  text-decoration: none;
+  font-weight: normal;
 }
 
 .highlight {
@@ -88,7 +114,11 @@ pre.highlight {
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #000000;
+        background-color: #1e1e1e;
+        color: #e1e1e1;
+    }
+    a {
+        color: #e1e1e1;
     }
   .footer-icon-links {
     text-decoration: none;
@@ -101,7 +131,7 @@ pre.highlight {
     color: #e1e1e1;
   }
 
-  .archive-title {
+  .archive-title, .archive-title:hover {
     color: #e1e1e1;
   }
 
