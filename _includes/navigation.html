@@ -1,9 +1,13 @@
 <nav class="navbar sticky-top navbar-expand-lg navbar-light">
   <div class="container-fluid">
-        <a class="navbar-brand p-0" href="{{ '/' | relative_url }}">
+    <a class="navbar-brand p-0" href="{{ '/' | relative_url }}">
         {% if site.lightavatar or site.darkavatar %}
-        <img src="{{ site.lightavatar | relative_url }}" alt="light avatar" class="d-inline-block align-top m-0 light-avatar">
-        <img src="{{ site.darkavatar | relative_url }}" alt="dark avatar" class="d-inline-block align-top m-0 dark-avatar">
+        <!-- light mode logos -->
+        <img src="{{ site.lightavatar | relative_url }}" alt="light avatar" width="50" class="d-inline-block align-top m-0 light-avatar">
+        <!-- <img src="{{ site.lighttitle | relative_url }}" alt="light avatar" width="250" class="d-inline-block align-bottom m-0 light-avatar"> -->
+        <!-- dark mode logos -->
+        <img src="{{ site.darkavatar | relative_url }}" alt="dark avatar" width="50" class="d-inline-block align-top m-0 dark-avatar">
+        <!-- <img src="{{ site.darktitle | relative_url }}" alt="dark avatar" class="d-inline-block align-top m-0 dark-avatar"> -->
     </a>
     {% endif %}
     <!-- <div class="titlefont">{{ site.name }}</div></a> -->
@@ -11,6 +15,10 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
+      {% if site.lightavatar or site.darkavatar %}
+        <img src="{{ site.lighttitle | relative_url }}" alt="light avatar" width="250" class="d-inline-block align-bottom m-0 light-avatar">
+        <img src="{{ site.darktitle | relative_url }}" alt="dark avatar" width="250" class="d-inline-block align-bottom m-0 dark-avatar">
+      {% endif %}
       <ul class="navbar-nav me-auto">
         {% for item in site.data.navigation %}
           <li class="nav-item">

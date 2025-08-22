@@ -10,9 +10,15 @@ title: catloaf & coffee
 
 # Link to avatar in the navbar (/assets/images/avatar.png). Leave empty if no logo desired. Two avatars for light and dark mode.
 # Avatar for light mode site
-lightavatar: /assets/images/ccLogoTitle.png
+lightavatar: /assets/images/ccLogo-black.png
 # Avatar for dark mode site
-darkavatar: /assets/images/ccLogoTitle-grey.png
+darkavatar: /assets/images/ccLogo-grey.png
+
+# Link to logo title for use in navbar, displayed to right of avatar defined above
+# Title for light mode site
+lighttitle: /assets/images/ccWordprint-black.png
+# Title for dark mode site
+darktitle: /assets/images/ccWordprint-white.png
 
 # A short description (e.g., A blog dedicated to reviewing cat gifs), used as part of the title tag like Ben's Awesome Site | A blog dedicated to reviewing cat gifs instead of Ben's Awesome Site | Long description about a blog dedicated to reviewing cat gifs that would be used when page.title is not defined.
 tagline: The sequel!
@@ -42,13 +48,13 @@ permalink: /:year/:month/:day/:title/
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: sageleaftea@gmail.com
+  email: sageleaf@catloafcoffee.com
   facebook:
   github: nekoandco/catloafCoffee
   instagram:
   linkedin:
   rss: # just type anything here for a working RSS icon
-  bluesky: nekoandco.bsky.social
+  bluesky: catloafcoffee.com
 
 plugins:
   - jekyll-seo-tag
