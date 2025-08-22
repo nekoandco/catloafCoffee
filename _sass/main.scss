@@ -12,14 +12,22 @@ body {
     color: #5d3737;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Jua", "Comic Sans MS", sans-serif;
+}
+
 a {
     color: #5d3737;
-    text-decoration: none;
-    font-weight: bold;
+    /* text-decoration: none;
+    font-weight: bold; */
 }
 
 a:hover {
     color: #ffbcd9;
+}
+
+::selection {
+  background: #ffbcd9;
 }
 
 .post {
@@ -34,10 +42,14 @@ a:hover {
   @extend .img-fluid;
   display: block;
   margin: auto;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
   max-width: 75%;
   max-height: 550px;
+}
+
+.post-date {
+	@extend .text-muted;
 }
 
 .shadow {
@@ -49,11 +61,12 @@ a:hover {
 }
 
 .caption {
+  position: relative;
+  top: -20px;
   @extend .text-muted;
   text-align: center;
   font-size: 70%;
   margin: auto;
-  margin-bottom: 10px;
   max-width: 75%;
 }
 
@@ -69,13 +82,21 @@ a:hover {
   font-family: "Jua", "Comic Sans MS", sans-serif;
 }
 
+.content {
+	 margin-top: 100px;
+}
+
 .navbar {
+  position: fixed;
+  width: 100%;
+  left: 0px;
   background-color: #ffecec;
   box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
-  font-weight: bold;
+  font-family: "Jua", "Comic Sans MS", sans-serif;
+  font-size: 1.25rem;
   text-align: bottom;
   margin-bottom: 2rem;
-  border-bottom: 0.125rem solid hsl(0, 0%, 30%);
+  /* border-bottom: 0.125rem solid hsl(0, 0%, 30%); */
 }
 
 .navbar img {
@@ -117,8 +138,9 @@ a:hover {
   color: #212529;
 }
 
-.archive-title, .archive-title:hover {
+.archive-title {
   color: #5d3737;
+  font-family: "Jua", "Comic Sans MS", sans-serif;
   text-decoration: none;
   font-weight: normal;
 }
@@ -169,7 +191,7 @@ pre.highlight {
     color: #e1e1e1;
   }
 
-  .archive-title, .archive-title:hover {
+  .archive-title {
     color: #e1e1e1;
   }
 

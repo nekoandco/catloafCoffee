@@ -15,10 +15,12 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
+	<a class="navbar-brand p-0" href="{{ '/' | relative_url }}">
       {% if site.lightavatar or site.darkavatar %}
         <img src="{{ site.lighttitle | relative_url }}" alt="light avatar" width="250" class="d-inline-block align-bottom m-0 light-avatar">
         <img src="{{ site.darktitle | relative_url }}" alt="dark avatar" width="250" class="d-inline-block align-bottom m-0 dark-avatar">
       {% endif %}
+	  </a>
       <ul class="navbar-nav me-auto">
         {% for item in site.data.navigation %}
           <li class="nav-item">
