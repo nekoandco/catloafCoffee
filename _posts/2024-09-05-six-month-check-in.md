@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: autism
 title: "Six month check-in."
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: trans featured
 title: "I Saw the TV Glow and it terrified me."
 ---
 

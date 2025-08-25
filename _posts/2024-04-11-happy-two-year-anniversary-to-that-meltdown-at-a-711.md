@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: autism
 title: "Happy two-year anniversary to that meltdown at a 7–11."
 ---
 

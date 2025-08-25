@@ -5,7 +5,7 @@
       It was a blue Christmas with you. | catloaf & coffee
     </title>
     <meta charset="utf-8" />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jua|Goudy+Bookletter+1911">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jua|Literata">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- The page supports both dark and light color schemes, and the page author prefers / default is light. -->
     <meta name="color-scheme" content="dark light" />
@@ -15,6 +15,33 @@
       href="/assets/css/styles.css"
     />
     <link rel="icon" href="/assets/images/ccLogo-grey.png" />
+	    <!-- This retrieves the latest Twemoji script -->
+    <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
+	<!-- Twemoji loader courtesy of https://gist.github.com/danielsebesta/24a28fdaa30834f856d512b813006553 -->
+	<script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
+      <script>
+         window.onload = function() {    
+             twemoji.parse(document.body, 
+                     {folder: 'svg', ext: '.svg'}
+             );
+         
+         }
+         
+      </script>
+      <style>
+         img.emoji {
+         display: inline !important;
+         border: none !important;
+         box-shadow: none !important;
+         height: 1em !important;
+         width: 1em !important;
+         margin: 0 .07em !important;
+         vertical-align: -0.1em !important;
+         background: none !important;
+         padding: 0 !important;
+         pointer-events: none
+         }
+      </style>
     <!-- Meta Theme Color is also supported on Safari and Chrome -->
     <meta
       name="theme-color"
@@ -73,11 +100,19 @@
       <ul class="navbar-nav me-auto">
         
           <li class="nav-item">
-            <a href="/"  class="nav-link" >home</a>
+            <a href="/tags/trans/"  class="nav-link" >🏳️‍⚧️ trans</a>
           </li>
         
           <li class="nav-item">
-            <a href="/about/"  class="nav-link" >about</a>
+            <a href="/tags/autism/"  class="nav-link" >♾️ autism</a>
+          </li>
+        
+          <li class="nav-item">
+            <a href="/tags/poetry/"  class="nav-link" >🧠 pretentious shit</a>
+          </li>
+        
+          <li class="nav-item">
+            <a href="/about/"  class="nav-link" >💡 about</a>
           </li>
         
       </ul>

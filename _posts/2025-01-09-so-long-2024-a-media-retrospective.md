@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: featured
 title: "So long, 2024: a media retrospective."
 ---
 

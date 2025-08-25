@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: poetry trans featured
 title: "Humbly, I kneel before your altar."
 ---
 

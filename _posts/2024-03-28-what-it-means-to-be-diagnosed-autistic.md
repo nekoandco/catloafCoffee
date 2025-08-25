@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: autism
 title: "What it means to be diagnosed Autistic."
 ---
 

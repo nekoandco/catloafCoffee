@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: poetry trans featured
 title: "The mountains are beautiful this time of year."
 ---
 
@@ -132,6 +133,6 @@ for not giving up;
 for clinging onto hope  
 even when I had lost mine many years ago.  
 
-I’m here now,  
+I’m here now, 
 wrapped in the warm embrace  
 of those beautiful mountains. ❤️

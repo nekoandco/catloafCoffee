@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: autism featured
 title: "Counting spoons: scenes from life abroad."
 ---
 

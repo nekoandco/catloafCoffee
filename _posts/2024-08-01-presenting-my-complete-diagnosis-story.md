@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: autism
 title: "Presenting: my complete diagnosis story."
 ---
 

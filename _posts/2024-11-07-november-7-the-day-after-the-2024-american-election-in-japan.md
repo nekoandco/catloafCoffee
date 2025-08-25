@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: trans
 title: "November 7, the day after the 2024 American election in Japan."
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: autism
 title: "My face is clay, but I am a dreadful artist."
 ---
 

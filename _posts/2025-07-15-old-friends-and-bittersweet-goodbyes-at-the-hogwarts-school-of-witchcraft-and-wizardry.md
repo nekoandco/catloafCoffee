@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: trans featured
 title: "Old friends and bittersweet goodbyes at the Hogwarts School of Witchcraft and Wizardry"
 ---
 

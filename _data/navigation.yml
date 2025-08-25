@@ -1,4 +1,8 @@
-- name: home
-  link: /
-- name: about
+- name: 🏳️‍⚧️ trans
+  link: /tags/trans/
+- name: ♾️ autism
+  link: /tags/autism/
+- name: 🧠 pretentious shit
+  link: /tags/poetry/
+- name: 💡 about
   link: /about/

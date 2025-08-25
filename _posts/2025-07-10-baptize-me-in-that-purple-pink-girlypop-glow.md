@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: trans
 title: "Baptize me in that purple-pink girlypop glow."
 ---
 

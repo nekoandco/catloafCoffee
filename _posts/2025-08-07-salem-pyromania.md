@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: poetry
 title: "Salem // Pyromania"
 ---
 

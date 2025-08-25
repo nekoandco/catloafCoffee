@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: trans featured
 title: "Sad Bitch Hour: It's Dysphoria Weekend™"
 ---
 
