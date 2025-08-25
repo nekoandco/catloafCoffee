@@ -5,7 +5,7 @@ title: "Old friends and bittersweet goodbyes at the Hogwarts School of Witchcraf
 
 ![Universal Studios Hogwarts castle](https://images.unsplash.com/photo-1583997052301-0042b33fc598?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 <div class="caption">Photo by <a href="https://unsplash.com/@jmeguilos">Jules Marvin Eguilos</a> on <a href="https://unsplash.com/photos/brown-and-gray-concrete-castle-under-blue-sky-during-daytime-YrcfSDVli3Y">Unsplash</a></div>
-⚠️ **Content warning:** _J.K. Rowling_
+<div class="contentWarning">J.K. Rowling</div>
 
 It’s Sunday. I’m visiting some family in Tokyo. The air is sweltering but I’m taking refuge at a small, beat-up dining table in my aunt’s and uncle’s house. Five of us are huddled around the table, eating French toast under a wall-mounted air conditioner unit. It softly hums away while the kids watch YouTube on an iPad and the adults deliberate what to do with our day.
 

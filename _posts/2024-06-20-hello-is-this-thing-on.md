@@ -1,35 +1,28 @@
 ---
 layout: post
-title: "[WIP] Hello, is this thing on?"
+title: "Hello, is this thing on?"
 ---
 
 ![black microphone on black background](https://images.unsplash.com/photo-1604266042274-0c081fdb854e?q=80&w=1753&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 <div class="caption">Photo by <a href="https://unsplash.com/@justdushawn">Dushawn Jovic</a> on <a href="https://unsplash.com/photos/black-microphone-on-black-background-qYWS0y8Bmf4">Unsplash</a></div>
+<div class="contentWarning">suicidal ideation, self-harm</div>
+<div class="sidebar">
+<h3>‼️ CORRECTION: 2025.02.04</h3>
+ In the original version of this piece I erroneously stated that the average Autistic lifespan is 36 years. It is not. This was a misinterpretation of a 2018 <a href="https://doi.org/10.2105/AJPH.2017.303696">study dealing with injury mortality</a>. The actual average Autistic lifespan is a much more palatable 70-75 years according to a recent <a href="https://doi.org/10.1016/j.lanepe.2023.100776">study from the UK</a>.
+<img src="{{site.baseurl}}/assets/images/loose/autismLifeExpectancy.jpeg" alt="graph showing life expentancy of Autistic individuals with and without intellectual disability">
+<div class="caption">O'Nions, Elizabeth et al. <i>"Estimating life expectancy and years of life lost for autistic people in the UK: a matched cohort study"</i></div>
 
-> ‼️ **CORRECTION:** _February 4, 2025_
-> 
-> In the original version of this piece I erroneously stated that the average Autistic lifespan is 36 years. It is not. This was a misinterpretation of a 2018 [study dealing with injury mortality](https://doi.org/10.2105/AJPH.2017.303696). The actual average Autistic lifespan is a much more palatable 70-75 years according to a recent [study from the UK](https://doi.org/10.1016/j.lanepe.2023.100776).
-> 
-> ![graph showing life expentancy of Autistic individuals with and without intellectual disability]({{site.baseurl}}/assets/images/loose/autismLifeExpectancy.jpeg)
-> <div class="caption">O'Nions, Elizabeth et al. “_Estimating life expectancy and years of life lost for autistic people in the UK: a matched cohort study”_</div>
-> 
-> Further, I originally stated the suicide rate among Autistics is up to nine times higher than average, but could not find where I got that number. Suicide rates _are_ notably higher in our community, although perhaps not quite to the degree I once claimed.
-> 
-> Both of these errors have been corrected in the text below. My apologies.
-
-⚠️ **Content warning:** _suicidal ideation, self-harm_
-
-- - -
+Further, I originally stated the suicide rate among Autistics is up to nine times higher than average, but could not find where I got that number. Suicide rates _are_ notably higher in our community, although perhaps not quite to the degree I once claimed.
+Both of these errors have been corrected in the text below. My apologies.
+</div>
 
 Diagnosis was a huge relief: I finally had an explanation for myself, _and_ it was signed-off on by a professional. However, it also raised many questions, chief among them: _How did no one piece this together sooner?_
 
 It took me twenty-six years to figure out that I’m Autistic, but in all the time leading up to that realization I was keenly aware that I was somehow different and my struggles were a result of that difference. It’s obvious to everyone but the individual themself when they have a blemish upon their face, so am I really to believe that no one noticed anything in all that time? Why didn’t my parents catch on? Could my teachers not see there was something a little different about me? How is it that all the adults around me never once thought to question that there could be something worthy of concern going on beneath the surface?
 
-- - -
-
-_This is a very upsetting line of thought. One that makes me very angry, but also one that I am unable to shake from my mind. I’m fully aware this is likely just a stage in processing my diagnosis, but I don’t want to invalidate the emotions I’m feeling in the moment, even if they do fade later. This piece is not me trying to blame everyone else for all my problems._ **catloaf & coffee** _is my place to process my diagnosis, and these are the thoughts and feelings I’m currently working through._
-
-- - -
+<div class="sidebar">
+<i>This is a very upsetting line of thought. One that makes me very angry, but also one that I am unable to shake from my mind. I’m fully aware this is likely just a stage in processing my diagnosis, but I don’t want to invalidate the emotions I’m feeling in the moment, even if they do fade later. This piece is not me trying to blame everyone else for all my problems.</i> <b>catloaf & coffee</b> <i>is my place to process my diagnosis, and these are the thoughts and feelings I’m currently working through.</i>
+</div>
 
 If someone had paid attention and tried to find me help, perhaps I could’ve spent the first quarter of my life _not_ hating every second of it. If I could’ve had accommodations made for me, if others could have tried to understand me; perhaps school could’ve been a place I looked forward to going every day. Or, at the very least, felt indifferent about.
 

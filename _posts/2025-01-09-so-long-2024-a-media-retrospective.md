@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[WIP QUOTES] So long, 2024: a media retrospective."
+title: "So long, 2024: a media retrospective."
 ---
 
 ![3x3 grid of various media]({{site.baseurl}}/assets/images/2024retrospective/header.png)
@@ -41,22 +41,16 @@ I’ll admit, it was her bright smile, adorable dimples, and flow-y dresses that
 
 With its country-pop leanings, “Gettin’ Rich, Goin’ Broke” was Avalon’s first song to catch my interest. But it was Avalon’s “Stranger” that cemented her music a place in my library, in which she offers the haunting lines:
 
-> What’s wrong with me?
-> 
-> I don’t wanna be
-> 
-> A stranger to the people I love
-> 
-> What’s wrong with me?
-> 
-> I don’t wanna believe
-> 
+> What’s wrong with me?  
+> I don’t wanna be  
+> A stranger to the people I love  
+> What’s wrong with me?  
+> I don’t wanna believe  
 > Everyone I love is gonna run
 
 Her debut EP, _Country Never Leaves_, dropped late October and its titular track dug up a homesickness in me that I didn’t realize existed. Sure, the “_girl can leave the country, but the country never leaves the girl_” is a tired trope by now, but Avalon’s rendition breathes it new life with her retrospective lyrics and beautiful vocals.
 
-> Sometimes you love what you leave
-> 
+> Sometimes you love what you leave  
 > Two suitcases full of memories
 
 ### Noah Kahan
@@ -68,12 +62,9 @@ Noah Kahan is hardly an obscure pick, but sometimes things are popular for good 
 
 I could go on and on about all the songs of Kahan’s that have impacted me, but I’ll settle for one. “You’re Gonna Go Far” (_Stick Season_) was a centerpiece of my music listening in 2024. Last year was scary for many reasons, and there were many moments where I questioned if I was making the right decisions. Sometimes I felt like I was making all the wrong choices; like I’d irrevocably fucked up everything beyond any hope of ever making things right again. In those times, I let Kahan’s voice reassure me.
 
-> The birds’ll still sing, your folks’ll still fight
-> 
-> The boards’ll still creak, the leaves will still die
-> 
-> We ain’t angry at you, love
-> 
+> The birds’ll still sing, your folks’ll still fight  
+> The boards’ll still creak, the leaves will still die  
+> We ain’t angry at you, love  
 > We’ll be waiting for you, love
 
 ### Taylor Swift
@@ -95,32 +86,23 @@ It’s no wonder Swift accounted for the vast majority of the music I listened t
 
 When the goings were rough, Swift’s music was there. On _folklore_’s—my favorite album of hers—“this is me trying,” Swift muses:
 
-> I’ve been having a hard time adjusting
-> 
-> I had the shiniest wheels, now they’re rusting
-> 
-> …
-> 
+> I’ve been having a hard time adjusting  
+> I had the shiniest wheels, now they’re rusting  
+> …  
 > I just wanted you to know that this is me trying
 
 When I felt lost, Swift’s music was there. On _Midnights_, she offers candid advice in “Dear Reader:”
 
-> Dear reader, bend when you can
-> 
-> Snap when you have to
-> 
-> Dear reader, you don’t have to answer
-> 
+> Dear reader, bend when you can  
+> Snap when you have to  
+> Dear reader, you don’t have to answer  
 > Just ‘cause they asked you
 
 And yes, in the good times, Swift’s music was there. Alongside celebratory, euphoric trumpet blasts, Swift celebrates her individuality in “ME!” on _Lover_.
 
-> I promise that you’ll never find another like
-> 
-> Me-e-e, ooh, ooh, ooh, ooh
-> 
-> I’m the only one of me
-> 
+> I promise that you’ll never find another like  
+> Me-e-e, ooh, ooh, ooh, ooh  
+> I’m the only one of me  
 > Baby, that’s the fun of me
 
 I’m sorry I left, but I’m back now. 2024 was the year I became a Swiftie again, and I’m glad to have Swift’s music to keep me company in the year ahead.
@@ -159,12 +141,9 @@ As one hops from page to page, they learn about the many characters on Hypnospac
 
 Late 90s cheese is also well represented here. A washed up rocker’s page plays their theme song, _I Am the Chowder Man_:
 
-> Stand up tall, let the Chowder be your all
-> 
-> High five the world, let the Chowder be heard
-> 
-> I like to eat right, I choose healthy snacks
-> 
+> Stand up tall, let the Chowder be your all  
+> High five the world, let the Chowder be heard  
+> I like to eat right, I choose healthy snacks  
 > The Chowder Man even writes his own raps
 
 It’s just nice. _Hypnospace_ offers an escape to a much simpler and happier time on the internet. Yes, it is a version of the internet presented through a _heavily_ rose-colored lens, but isn’t that what games are for? _Fantasy_.
@@ -255,6 +234,6 @@ I could go on, but sometimes less is more: This movie fucks. _That’s all._
 
 _I Saw the TV Glow_ is undoubtedly the best film I saw last year—nay, one of the best films I have _ever_ seen. It left me reeling during its credits crawl, forcing me to confront things about myself that I had promised to forget years ago. It’s a very special film.
 
-I have so many words about this singular movie that it rivals the word count of this entire post. Instead of stitching together Frankenstein’s Blog Post, I’ve decided to publish all of my words about _I Saw the TV Glow_ as its own standalone post.
+I have so many words about this singular movie that it rivals the word count of this entire post. Instead of stitching together Frankenstein’s Blog Post, I’ve decided to publish all of my words about _I Saw the TV Glow_ as its own [standalone post]({% post_url 2025-03-6-i-saw-the-tv-glow-and-it-terrified-me %}).
 
 Until then.

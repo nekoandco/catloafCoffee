@@ -5,6 +5,17 @@ table {
 
 blockquote {
   @extend .blockquote;
+  border-left: 10px solid #ffbcd9;
+  font-style: italic;
+  text-align: left;
+  margin: 1.5em 10px;
+  margin-left: 1.5em;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote p {
+  display: inline;
 }
 
 body {
@@ -49,12 +60,68 @@ a:hover {
   max-height: 550px;
 }
 
+.post iframe {
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  max-width: 75%;
+  max-height: 550px;
+}
+
 .post-date {
 	@extend .text-muted;
 }
 
-.shadow {
-  filter: drop-shadow(0px 0px 10px #1e1e1e);
+.contentWarning, .spoilerWarning, .infoWarning, .sidebar {
+  background: #F8F2F2;
+  border: 2px solid #5d3737;
+  border-radius: 5px;
+  text-align: left;
+  font-size: 0.8em;
+  max-width: 70%;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 0.5em 10px;
+}
+
+.sidebar {
+  max-width: 90%;
+  padding: 1em 25px;
+  text-align: justify;
+}
+
+ .contentWarning:before {
+  color: #ccc;
+  content: "⚠️";
+  font-size: 1.5em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.2em;
+}
+
+ .spoilerWarning:before {
+  color: #ccc;
+  content: "👀";
+  font-size: 1.5em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.2em;
+}
+
+ .infoWarning:before {
+  color: #ccc;
+  content: "ℹ️";
+  font-size: 1.5em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.2em;
+}
+
+.substack-post-embed {
+  display: block;
+  margin: auto;
 }
 
 .wordbreak {
@@ -105,8 +172,8 @@ a:hover {
   /* border-bottom: 0.125rem solid hsl(0, 0%, 30%); */
 }
 
-.navbar img {
-  /* max-width: 100px; */
+.navbar a:hover {
+  filter: drop-shadow(0px 0px 5px #ffbcd9);
 }
 
 .archive-year {
@@ -184,6 +251,11 @@ pre.highlight {
   
   .navbar {
     background-color: #1e1e1e;
+  }
+  
+  .contentWarning, .spoilerWarning, .infoWarning, .sidebar {
+  background: #333333;
+  border: 2px solid #ffbcd9;
   }
   
   .footer-icon-links {

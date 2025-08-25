@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "[WIP LINK] Baptize me in that purple-pink girlypop glow."
+title: "Baptize me in that purple-pink girlypop glow."
 ---
 
 ![Maddy in planetarium]({{site.baseurl}}/assets/images/tvGlow/planetariumWide.jpg)
 <div class="caption"><i>I Saw the TV Glow</i>, A24</div>
 
-ℹ️ Originally posted on [Letterboxd](https://letterboxd.com/neko_and_co/film/i-saw-the-tv-glow/5/), with a bit of added polishing for **catloaf & coffee**.
-
-👀 Vague spoilers for _I Saw the TV Glow_.
+<div class="spoilerWarning">Vague spoilers for <i>I Saw the TV Glow</i>.</div>
+<div class="infoWarning">Originally posted on <a href="https://letterboxd.com/neko_and_co/film/i-saw-the-tv-glow/5/">Letterboxd</a>, with a bit of added polishing for <b>catloaf & coffee</b>.</div>
 
 Once one pushes past the initial fear, starting transition is exciting. It’s time to start hormones, buy new clothes, try a new hairstyle, learn makeup, and get a piercing or two. Eventually, though, some time passes and one has checked all those little boxes, and now there’s not much left to do but wait.
 
@@ -48,7 +47,7 @@ Now Owen is screaming in the Fun Center’s party room. Last year, this scene sh
 
 <div class="break"><img src="{{site.baseurl}}/assets/images/break-beans.png"></div>
 
-Words cannot begin to express how much this film means to me. I know because I’ve been trying to put its impact on me into words ever since I first saw this film back in October. I wrote an [8,000 word personal essay](NEED LINK HERE) using _TV Glow_ as a framework for my own coming out story, and much to my chagrin it completely fails at communicating the transcendent power this film holds for me. The English language simply doesn’t possess the verbiage—and I, the writing prowess—to convey these emotions.
+Words cannot begin to express how much this film means to me. I know because I’ve been trying to put its impact on me into words ever since I first saw this film back in October. I wrote an [8,000 word personal essay]({% post_url 2025-03-6-i-saw-the-tv-glow-and-it-terrified-me %}) using _TV Glow_ as a framework for my own coming out story, and much to my chagrin it completely fails at communicating the transcendent power this film holds for me. The English language simply doesn’t possess the verbiage—and I, the writing prowess—to convey these emotions.
 
 Nonetheless, here I am trying to convey them yet again. Despite having seen _TV Glow_ six times now and having poured over its script countless times when writing that aforementioned essay, this most recent viewing drew out an emotional response in me greater than ever before. Its magic isn’t fading. Not even a little.
 

@@ -1,16 +1,14 @@
 ---
 layout: post
-title: "[WIP QUOTES] Counting spoons: scenes from life abroad."
+title: "Counting spoons: scenes from life abroad."
 ---
 
-ℹ️ _There are numerous Japanese words used throughout this piece. English definitions are provided in the footnotes._
+<div class="infoWarning">There are numerous Japanese words used throughout this piece. English definitions are provided in the footnotes.</div>
+<div class="sidebar">
+<h2>Author’s note</h2>
+I started writing this post intending to discuss why I came to Japan in the first place, in anticipation of deciding whether to stay here for another year. As I was exploring my reasons for moving abroad, I began to dive into how deficits have shaped my experiences here. I came to Japan with so many ideas of what I wanted it to be, but very few, if any, of those ideas have panned out, and it’s entirely because I am simply not able to break out of my routines easily. I just don’t have the capacity to do so. Most weeks, it feels like my routines are the only thing keeping everything together. As time continues to pass, I grow increasingly embarrassed at having “wasted” all this time abroad.<br><br>
 
-## Author’s note
-
-I started writing this post intending to discuss why I came to Japan in the first place, in anticipation of deciding whether to stay here for another year. As I was exploring my reasons for moving abroad, I began to dive into how deficits have shaped my experiences here. I came to Japan with so many ideas of what I wanted it to be, but very few, if any, of those ideas have panned out, and it’s entirely because I am simply not able to break out of my routines easily. I just don’t have the capacity to do so. Most weeks, it feels like my routines are the only thing keeping everything together. As time continues to pass, I grow increasingly embarrassed at having “wasted” all this time abroad.
-
-I had written a few thousand words on all of this, yet I felt like I was failing to articulate my struggle with deficits and how it feels to witness one’s capacity for doing things wither. Instead, I settled on the following. Below are various moments from my time in Japan, presented without further interruption.
-
+I had written a few thousand words on all of this, yet I felt like I was failing to articulate my struggle with deficits and how it feels to witness one’s capacity for doing things wither. Instead, I settled on the following. Below are various moments from my time in Japan, presented without further interruption.</div>
 ## The party
 
 ![people holding snifter glasses](https://images.unsplash.com/photo-1438557068880-c5f474830377?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)

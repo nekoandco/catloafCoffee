@@ -1,0 +1,9 @@
+light mode
+	MAIN_background (sakura): #ffecec
+	SECONDARY_highlight (pink): #ffbcd9
+	CONTENT_text (brown): #5d3737
+
+dark mode
+	MAIN_background (sakura): #ffecec
+	SECONDARY_highlight (pink): #ffbcd9
+	CONTENT_text (brown): #5d3737

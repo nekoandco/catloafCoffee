@@ -1,19 +1,14 @@
 ---
 layout: post
-title: "[WIP QUOTES LINKS] I Saw the TV Glow and it terrified me."
+title: "I Saw the TV Glow and it terrified me."
 ---
 
 ![Owen looks at Maddy, who is crying]({{site.baseurl}}/assets/images/tvGlow/hero.jpg)
 <div class="caption"><i>I Saw the TV Glow</i>, A24</div>
-
-⚠️ **Content warning:** _strong language, anti-LGBTQ+ rhetoric_
-
-👀 _Vague spoilers for_ I Saw the TV Glow.
-
-ℹ️ _This is technically an addition to January’s post. However, this piece stands on its own. Read the prior post first… or don’t!_
-
+<div class="contentWarning"> strong language, anti-LGBTQ+ rhetoric</div>
+<div class="spoilerWarning">Vague spoilers for <i>I Saw the TV Glow</i>.</div>
+<div class="infoWarning">This is technically an addition to <a href="{% post_url 2025-01-09-so-long-2024-a-media-retrospective %}">January’s post</a>. However, this piece stands on its own. Read the prior post first… or don’t!</div>
 - - -
-
 ## Previously on “The Pink Opaque”
 
 ![I Saw the TV Glow movie poster]({{site.baseurl}}/assets/images/tvGlow/tvglow.jpg)
@@ -25,7 +20,7 @@ Well, it isn’t scary in the traditional sense. Taken literally, _TV Glow_ woul
 
 This film terrified me. It shook me to my core. It was as if I were witnessing a prophecy of my own life play out on the screen. _TV Glow_ looked me in the eye and said, “_Don’t look away. This is important. This could be you if you keep down this path.”_ I didn’t like what I saw, but that was the point.
 
-> _I know it's scary. That's part of it._[^1]
+> I know it's scary. That's part of it.[^1]
 
 I saw myself in Owen’s meekness, his awkward stumbling through life, and his horror at catching glimpses of his true self.
 
@@ -44,21 +39,14 @@ A cry for help.
 
 Silence.
 
-> _Sorry about that before._
-> 
-> _Sorry about before._
-> 
-> _Just a new medication I’m on._
-> 
-> _Sorry._
-> 
-> _I’m sorry about before._
-> 
-> _I’m sorry about that before._
-> 
-> _Sorry._
-> 
-> _I’m sorry._
+> Sorry about that before.  
+> Sorry about before.  
+> Just a new medication I’m on.  
+> Sorry.  
+> I’m sorry about before.  
+> I’m sorry about that before.  
+> Sorry.  
+> I’m sorry.  
 
 Cut to black. Roll credits.
 
@@ -95,11 +83,9 @@ However, we _can_ change our recollection of the past—and I did just that. Muc
 
 At least I can take solace in having rediscovered these memories.
 
-> _Do you ever feel like you're narrating your own life, watching it play in front of you like an episode of television?_
-> 
-> _Or do you ever have a hard time distinguishing between what happened in the show and what happened in real life?_
-> 
-> _Like somehow the memories got jumbled around?_
+> Do you ever feel like you're narrating your own life, watching it play in front of you like an episode of television?  
+> Or do you ever have a hard time distinguishing between what happened in the show and what happened in real life?  
+> Like somehow the memories got jumbled around?
 
 ### Righteous immorality
 
@@ -114,7 +100,8 @@ Until [Houston’s “bathroom ordinance](https://www.texastribune.org/2015/11/0
 
 And there I was thinking guns and mental health issues posed the largest risks to our children’s safety. _What a fool I was!_
 
-> Anti-trans political ads like this one were my introduction to trans people. I don’t recall a single person around me taking issue with this sort of language being used to describe a group of human beings. Casual transphobia was just that—casual. No one thought anything of it.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D7thOvSvC4E?si=TXlM0xkfesSl1PS5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="caption">Anti-trans political ads like this one were my introduction to trans people. I don’t recall a single person around me taking issue with this sort of language being used to describe a group of human beings. Casual transphobia was just that—casual. No one thought anything of it.</div>
 
 Having grown up in that world, it feels _personal_ seeing it at the forefront of today’s fascism. Those leading the charge against trans rights are just the sort of people I grew up around. Yet, I can’t say I am surprised. Every Sunday, I was told how important acceptance and forgiveness were, but I failed to ever observe those values in practice within the church.
 
@@ -169,13 +156,10 @@ I regret that now, but I can’t blame myself. I was just trying to fit in. Just
 
 By the time I graduated, I wore straight-cut jeans and lugged around a dull black binder. I cut my hair short and stopped crossing my legs. It was time to grow up, stop fucking around, and act like a _man_.
 
-> _Sorry about that before._
-> 
-> _Sorry about before._
-> 
-> _Sorry._
-> 
-> _I’m sorry._
+> Sorry about that before.  
+> Sorry about before.  
+> Sorry.  
+> I’m sorry.
 
 ### Soft-boiled
 
@@ -184,19 +168,19 @@ By the time I graduated, I wore straight-cut jeans and lugged around a dull blac
 
 Early in university, I wrote a piece for the student newspaper about how I resented being mocked for liking the color pink, among other things. It opened with the following:
 
-> _I don’t make a very good man. Before anyone asks, no, I’m not coming out as a woman or anything along those lines._
+> I don’t make a very good man. Before anyone asks, no, I’m not coming out as a woman or anything along those lines.
 
 Oh, the irony…
 
 I wrote a great many things for that newspaper, most of which I do not remember. The things that I do recall writing are the pieces that I was either exceptionally proud of or generated a bit of controversy.[^6] The aforementioned column fits neither of these categories, however. I remember it only because of the intense shame I felt immediately after sending it off to my editor.
 
-> _I’m not macho, I don’t have very many guy friends, and I wear my heart on my sleeve. I must be gay or something, right?_
+> I’m not macho, I don’t have very many guy friends, and I wear my heart on my sleeve. I must be gay or something, right?
 
 I felt embarrassed. I had written the forbidden words. _Why the fuck did I write that?_ I couldn’t enter the newsroom for several weeks afterward, lest I had to look anyone in the eye. That shame stuck with me throughout the rest of my time at university.
 
 At the end of that piece, I wrote:
 
-> _What I’ve always found rather amusing is we are often told to be ourselves in pop culture. Really, what that means is to be ourselves within the boundaries of acceptable behavior as defined by society. How shameful._
+> What I’ve always found rather amusing is we are often told to be ourselves in pop culture. Really, what that means is to be ourselves within the boundaries of acceptable behavior as defined by society. How shameful.
 
 These words are the clear product of repression. I was _so_ close, yet it wouldn’t be until almost a decade later that I would finally put the pieces together.
 
@@ -208,53 +192,33 @@ These words are the clear product of repression. I was _so_ close, yet it wouldn
 Coming out as Autistic was scary, but at the same time it was something that everyone around me already knew, even if they didn’t realize it. _Sage is a little socially awkward_, they’d think. _Sage is eccentric_. And when I did unveil that I am Autistic, it was rather anticlimactic. Ultimately, “Autism” means very little to most people. “You’re Autistic? Alright,” they said, shrugging their shoulders.
 
 Coming out as trans is different. People have _opinions_ on what “trans” means. To some, it is merely a term that refers to those whose assigned gender does not match their identity; to others, it is a term indicative _of_ identity and a greater community; to others still, it is a term that refers to predators. Trans hate is so prevalent at the moment that it is a prominent feature of the current U.S. administration.
+<div class="sidebar">
+<h3>The new morning groove</h3>
 
-> ### An aside: The new morning groove
-> 
-> It’s become something of a ritual of mine to wake up, grab a coffee, and peruse my home country’s latest efforts to erase my existence.
-> 
-> *   **January 20**: Trump takes office and signs an [executive order](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/) that declares that the federal government will henceforth recognize only two sexes.
->     
-> *   **January 27**: Trump signs another [executive order](https://www.whitehouse.gov/presidential-actions/2025/01/prioritizing-military-excellence-and-readiness/) targeting transgender people in the military, citing “adoption of a gender identity inconsistent with an individual’s sex conflicts with a soldier’s commitment to an honorable, truthful, and disciplined lifestyle, even in one’s personal life.”
->     
-> *   **January 28**: _Guess what, motherfucker??_ Trump signs yet another [executive order](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/), this time attacking gender-affirming care for trans youth (defined as those _19_ and below), reasoning it is “chemical and surgical mutilation.” _Won’t someone think of the children?!_
->     
-> *   **February**: The great information purge begins. Government, healthcare providers’, and nonprofits’ websites have large swaths of information deleted from their pages. The [State Department’s travel safety site](https://www.erininthemorning.com/p/state-department-travel-safety-website) has all references to, and specific information pertaining to, transgender people on its LGBT page removed—now titled “LGB Travelers.” The National Park Service’s page on the Stonewall Monument [follows suit](https://www.erininthemorning.com/p/protests-erupt-at-stonewall-after), among many others.
->     
-> *   **February 5**: _I’m tired, y’all._ Trump signs—_can you guess?_—an [executive order](https://www.whitehouse.gov/presidential-actions/2025/02/keeping-men-out-of-womens-sports/) with a title that says it all: “Keeping Men Out of Women’s Sports.” The [NCAA kisses the royal orange ass](https://www.theguardian.com/us-news/2025/feb/06/ncaa-ban-transgender-athletes) a day later.
->     
-> *   **February 18:** The [Department of Homeland Security removes limitations](https://news.bgov.com/bloomberg-government-news/trumps-dhs-loosens-sexual-orientation-based-surveillance-policy) on surveilling individuals based on gender identity or sexual orientation, effectively allowing mass-surveillance of the LGBTQ+ community. _This seems… bad._
->     
-> *   **February 24:** An internal memo details policy changes on issuing visas, in response to February 5’s executive order. This has the potential to [affect all incoming foreign trans people](https://www.erininthemorning.com/p/marco-rubio-may-have-just-banned?r=21qo2w&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false).
->     
-> 
-> This list is far from comprehensive, by the way.
-> 
-> ![Kristen Bell saying, "This is The Bad Place."]({{site.baseurl}}/assets/images/tvGlow/badPlace.jpg)
-> <div class="caption"><i>The Good Place</i>, NBC</div>
-> 
-> It is vital to understand the grave danger these attacks pose to all of us. History shows that _bad things_ follow the dehumanization of marginalized groups, and “dehumanization” is _exactly_ what these policies are attempting to do. Eliminating our legal statuses, restricting our movement, altering records and resources to remove any reference to us—this goes much further than a simple political, social, moral, or religious disagreement. These are the sorts of things that [precede the worst kinds of events](https://en.wikipedia.org/wiki/Ten_stages_of_genocide).
-> 
-> If we continue on this current trajectory, very bad things _will_ happen. It’s not a possibility. It’s a certainty. It’s just a matter of _when_.
-> 
-> And when they’re through with us? Will their thirst for blood be satiated? Well, history tells us a thing or two about that, as well.
-> 
-> [
-> 
-> ![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/86667743-b8b4-4e30-9389-5ade28e1a964_399x399.png)Erin In The Morning
-> 
-> Nazis Burned Trans Books To Usher In Fascism: Now Trump Does The Same
-> 
-> Read more
-> 
-> 6 months ago · 639 likes · 25 comments · Erin Reed
-> 
-> ](https://www.erininthemorning.com/p/nazis-burned-trans-books-to-usher?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
-> 
-> Since I moved to Japan, I’ve had an ongoing internal debate on returning to America. I always assumed I _would_ return; it was just a question of _when_. Well, that debate has swiftly been put to rest. I no longer feel safe in my home country, and I have no idea when it will be safe for me to return, even for a brief visit.
-> 
-> Still, I’m extremely fortunate that I live in a country where I _do_ feel safe. Many are not so lucky.
+It’s become something of a ritual of mine to wake up, grab a coffee, and peruse my home country’s latest efforts to erase my existence.
+<ul>
+	<li><b>January 20</b>: Trump takes office and signs an <a href="https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/">executive order</a> that declares that the federal government will henceforth recognize only two sexes.</li>
+	<li><b>January 27</b>: Trump signs another <a href="https://www.whitehouse.gov/presidential-actions/2025/01/prioritizing-military-excellence-and-readiness/">executive order</a> targeting transgender people in the military, citing “adoption of a gender identity inconsistent with an individual’s sex conflicts with a soldier’s commitment to an honorable, truthful, and disciplined lifestyle, even in one’s personal life.”</li>
+	<li><b>January 28</b>: <i>Guess what, motherfucker??</i> Trump signs yet another <a href="https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/">executive order</a>, this time attacking gender-affirming care for trans youth (defined as those 19 and below), reasoning it is “chemical and surgical mutilation.” <i>Won’t someone think of the children?!</i></li>
+	<li><b>February</b>: The great information purge begins. Government, healthcare providers’, and nonprofits’ websites have large swaths of information deleted from their pages. The <a href= "https://www.erininthemorning.com/p/state-department-travel-safety-website">State Department’s travel safety site</a> has all references to, and specific information pertaining to, transgender people on its LGBT page removed—now titled “LGB Travelers.” The National Park Service’s page on the Stonewall Monument <a href="https://www.erininthemorning.com/p/protests-erupt-at-stonewall-after">follows suit</a>, among many others.</li>
+	<li><b>February 5</b>: <i>I’m tired, y’all.</i> Trump signs—<i>can you guess?</i>—an <a href="https://www.whitehouse.gov/presidential-actions/2025/02/keeping-men-out-of-womens-sports/">executive order</a> with a title that says it all: “Keeping Men Out of Women’s Sports.” The <a href="https://www.theguardian.com/us-news/2025/feb/06/ncaa-ban-transgender-athletes">NCAA kisses the royal orange ass</a> a day later.</li>
+	<li><b>February 18</b>: The <a href="https://news.bgov.com/bloomberg-government-news/trumps-dhs-loosens-sexual-orientation-based-surveillance-policy">Department of Homeland Security removes limitations</a> on surveilling individuals based on gender identity or sexual orientation, effectively allowing mass-surveillance of the LGBTQ+ community. <i>This seems… bad.</i></li>
+	<li><b>February 24</b>: An internal memo details policy changes on issuing visas, in response to February 5’s executive order. This has the potential to <a href="https://www.erininthemorning.com/p/marco-rubio-may-have-just-banned?r=21qo2w&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false">affect all incoming foreign trans people</a>.</li>
+</ul>
+This list is far from comprehensive, by the way.
+<img src="{{site.baseurl}}/assets/images/tvGlow/badPlace.jpg" alt="Kristen Bell saying, 'This is The Bad Place.'">
+<div class="caption"><i>The Good Place</i>, NBC</div>
+It is vital to understand the grave danger these attacks pose to all of us. History shows that <i>bad things</i> follow the dehumanization of marginalized groups, and “dehumanization” is <i>exactly</i> what these policies are attempting to do. Eliminating our legal statuses, restricting our movement, altering records and resources to remove any reference to us—this goes much further than a simple political, social, moral, or religious disagreement. These are the sorts of things that <a href="https://en.wikipedia.org/wiki/Ten_stages_of_genocide">precede the worst kinds of events</a>.
+If we continue on this current trajectory, very bad things <i>will</i> happen. It’s not a possibility. It’s a certainty. It’s just a matter of <i>when</i>.
+<br><br>
+And when they’re through with us? Will their thirst for blood be satiated? Well, history tells us a thing or two about that, as well.
 
+<div class="substack-post-embed"><p lang="en">Nazis Burned Trans Books To Usher In Fascism: Now Trump Does The Same by Erin Reed</p><p>Transgender people have often been a canary in the coalmines of Democracy.</p><a data-post-link href="https://www.erininthemorning.com/p/nazis-burned-trans-books-to-usher">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+
+Since I moved to Japan, I’ve had an ongoing internal debate on returning to America. I always assumed I <i>would</i> return; it was just a question of <i>when</i>. Well, that debate has swiftly been put to rest. I no longer feel safe in my home country, and I have no idea when it will be safe for me to return, even for a brief visit.
+<br><br>
+Still, I’m extremely fortunate that I live in a country where I <i>do</i> feel safe. Many are not so lucky.
+</div>
 It’s a less-than-ideal time to be doing this, to put it lightly. This is certainly not the sort of atmosphere anyone wants to come out in, but it’s the one I’ve got. I’m not scared of being trans, but I am scared of what it means within the culture we currently find ourselves in.
 
 I’m fearful of the kind of repercussions words like these could bring in the coming years, let alone in the current moment. I’m afraid that visiting my family in Texas is no longer safe for me—if I even have a family to visit, once I divulge all of this to them.
@@ -263,19 +227,15 @@ It’s scary, but I can’t deny that the purple-pink girlypop glow of “The Pi
 
 I already knew the truth of my identity long before I ever sat down to watch _I Saw the TV Glow_. I’ve known for a very long time that something was wrong—the way I’ve been living is wrong. I thought I’d found the explanation for those feelings last year in Autism, but it turned out that was only half of the answer. The other half I had known for most of my life, but had chosen to ignore it.
 
-> _I told myself,_
-> 
-> _“This isn't normal. This isn’t normal.”_
-> 
-> _This isn't how life is supposed to be._
+> I told myself,  
+> “This isn't normal. This isn’t normal.”  
+> This isn't how life is supposed to be.
 
 I knew the truth in high school, but it was beaten out of me. I swore to forget these feelings. I told myself it was just a phase. _I’m a man! I was just confused._
 
 As I entered adulthood, I watched as my physical features grew more and more masculine. As I peered into the mirror every morning, I began to focus on the microscale: on my scalp as I did my hair, on my cheek as I shaved it—never taking in my whole self, for to do so would be to confront the dysphoria at the _thing_ that stared back at me in the mirror.
 
 That dysphoria was a strange experience. I would go weeks, even months, without ever looking at myself properly in the mirror, until one day I would let my guard down and accidentally see myself in full. It was always genuinely shocking. _Who the fuck is that?_
-
-[
 
 ![iMessage messages that read: "If only we could swap genders" "haha, yeah if only.."]({{site.baseurl}}/assets/images/tvGlow/genderSwapMessageCap.png)
 <div class="caption">July 2023</div>
@@ -286,27 +246,19 @@ I’ve always felt a disconnect within myself. My mind and body have never been 
 
 Nonetheless, I’ve chosen for years on end to push these feelings aside. I’ve told myself that everyone feels this way, and in a sense, everyone _does_ feel this way—even the most beautiful of us struggle with self-image. But this goes further than that. This is something more, and I’ve known that for a long time, but I swore to myself that it wasn’t true.
 
-> _Maddy's story was insane._
-> 
-> _It couldn't be true._
-> 
-> _But some nights … I found myself wondering:_
-> 
-> _What if she was right?_
-> 
-> _What if she had been telling the truth?_
-> 
-> _What if I really was someone else?_
-> 
-> _Someone beautiful and powerful._
-> 
-> _Someone buried alive and suffocating to death._
+> Maddy's story was insane.  
+> It couldn't be true.  
+> But some nights … I found myself wondering:  
+> What if she was right?  
+> What if she had been telling the truth?  
+> What if I really was someone else?  
+> Someone beautiful and powerful.  
+> Someone buried alive and suffocating to death.
 
 Eventually, I admitted to a therapist that if I could press a button and immediately become a woman, I’d do so without hesitation. “But that’s just hypothetical,” I hand-waved. “I wouldn’t ever want to actually transition!”
 
-> _That's just fantasy._
-> 
-> _Kid's stuff._
+> That's just fantasy.  
+> Kid's stuff.
 
 Yet, the evidence stacked higher and higher. As I researched my neurodivergence and discovered a [higher proportion of transgender people among the Autistic population](https://www.cam.ac.uk/research/news/transgender-and-gender-diverse-individuals-are-more-likely-to-be-autistic-and-report-higher-autistic), I told myself I wasn’t a part of those statistics. When I caught myself staring at women, I told myself it was merely out of lust—I didn’t want to _be_ them! When I felt things stirring deep inside of me whenever other queer people would share their experiences, I told myself I was being _too_ empathetic. _I told myself I wasn’t trans._
 
@@ -326,11 +278,9 @@ _You’re not a fucking man!_
 
 I’ve been running from myself for my entire life. Maddy forced me to confront who I really am, and realize that I’m sick of running. I can’t do it anymore. I won’t.
 
-> _I knew I needed to come back and save you._
-> 
-> _So that the show can continue._
-> 
-> _So that we can get to season six._
+> I knew I needed to come back and save you.  
+> So that the show can continue.  
+> So that we can get to season six.
 
 ## Act Three: Rebirth
 ### New hemisphere, new me
@@ -418,11 +368,9 @@ I marched to a nearby Shake Shack and paid an excessive amount of money for a ch
 
 There I was about to stuff my face like I was back in America. I had changed a lot, and I was going to change a whole lot more, but I was still _me_. If anything, I was more _me_ than I’d ever been before.
 
-> _And I was me._
-> 
-> _I was finally me again._
-> 
-> _And it was the season six premiere._
+> And I was me.  
+> I was finally me again.  
+> And it was the season six premiere.
 
 Autistic and now trans—I never expected these to be the defining traits of my time living abroad. Yet, it had all led me here: to an overpriced (yet delicious) burger shop on the opposite side of the globe on which I had spent 90% of my life. Despite everything, I had found my way to one of my oldest guilty pleasures: a _disgusting_, _beautiful_ burger.
 
@@ -471,7 +419,7 @@ Currently, my (deep) voice isn’t a major source of dysphoria because it matche
 
 While it’s all a bit awkward and I’d really like for the estrogen to _hurry up already_, my transition thus far has been _overwhelmingly_ positive. It’s one of the best things that’s ever happened to me, if not _the_ best thing that’s ever happened to me.
 
-I expected estrogen to improve my mental health in a roundabout way. I thought as it altered me to be more in-line with who I envision myself as, my mental health would improve as a result. That’s probably true. However, my mental state did a 180 literally overnight after receiving my first injection. At first, I thought this was simply a result of the knowledge of having started HRT, something I was really excited about. But over a month in, the “novelty” of having started estrogen has waned and I still feel fantastic. It’s not that I’m constantly happy—a certain orange man has seen to it that I’m not—but I’m _stable_. I can think and process negative thoughts and feelings (like the kind from [rumination](https://catloafcoffee.substack.com/p/welcome-to-my-water-prison-24-04-26)), then move on with my day—something I’ve never been able to do. Before estrogen, all it took was one little thing and I would spiral for the rest of the day. No more!
+I expected estrogen to improve my mental health in a roundabout way. I thought as it altered me to be more in-line with who I envision myself as, my mental health would improve as a result. That’s probably true. However, my mental state did a 180 literally overnight after receiving my first injection. At first, I thought this was simply a result of the knowledge of having started HRT, something I was really excited about. But over a month in, the “novelty” of having started estrogen has waned and I still feel fantastic. It’s not that I’m constantly happy—a certain orange man has seen to it that I’m not—but I’m _stable_. I can think and process negative thoughts and feelings (like the kind from [rumination]({% post_url 2024-05-23-welcome-to-my-water-prison %}), then move on with my day—something I’ve never been able to do. Before estrogen, all it took was one little thing and I would spiral for the rest of the day. No more!
 
 It certainly isn’t visually apparent yet, but I can confirm _things are happening_ in my chest. I noticed toward the end of my second week on estrogen that my chest had become sensitive to touch, which happened far sooner than I ever expected. Any irrational fears I had that I might be immune to estrogen or that I had been given placebo injections were quickly put to rest.
 

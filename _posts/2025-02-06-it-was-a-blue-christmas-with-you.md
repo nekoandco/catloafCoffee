@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[WIP DEADNAME] It was a blue Christmas with you."
+title: "It was a blue Christmas with you."
 ---
 
 ![red coffee latte on white ceramic mug](https://images.unsplash.com/photo-1461010083959-8a5727311252?q=80&w=2024&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
@@ -44,7 +44,7 @@ _Count them: one, two, three. With each usage of my deadname, I cringed. It hurt
 
 _Oh, there’s another! Four. It’s difficult to believe in someone’s good intentions when they can’t even get one’s name right._
 
-_“We gave you your name. We called you **d̶͓̠̫̳͕͍̂̃̏̊͗̍̃̕͜͝e̸̢̛̱̖̪̯̟̞̹͖̗̓̓͗̊̀̔̀̽̽̚̕ȁ̷̧̤͉͓̗͉̖̥̟̺̌ͅd̷̠̙̘̗̙͖̝̬̯̗̭̄͂̎̎͛̀͗́̉n̶̹͇̖̟̬̮̩̘̘̪͍̹͂́̍̀͜͝ȧ̷̫̬͓̟̣͕͇̳̘͇́̈́͊̊̕ͅͅm̴̲̒͋̇̌̂̆̃̓̑̇e̷̲̫̭͉̋̓͗̂͗̾̈́̋̈́͂̏́͐̃͝** for years, until you decided you didn’t want to be called that anymore.” Five. Obviously, I didn’t expect perfection. But my 80-something grandfather immediately adopted my name without issue…_
+_“We gave you your name. We called you █████ for years, until you decided you didn’t want to be called that anymore.” Five. Obviously, I didn’t expect perfection. But my 80-something grandfather immediately adopted my name without issue…_
 
 _I took a sip of my coffee. This conversation was going nowhere fast. It was clear we were at a stalemate: my attempts at explaining myself were continuously shot down. Either they argued with the basic events that had occurred, or they accused me of being misleading or untruthful. I had previously explained that my tone of voice, facial expressions, and words shouldn’t be analyzed for hidden meaning, but they obviously hadn’t listened. Or cared?_
 
@@ -96,7 +96,7 @@ _“No, Autism didn’t exist in the 80s,” they reiterated._
 
 _They were doubling down. They hadn’t misspoken._
 
-_“**D̵̨̢̧̨̹̻̣̗̖̦̖̰̭͙̝̣̮͔̺͚͋̏̋̒͋̐͛͑̅̓͐͐͂̎͌̎͑̚̕̕͝ͅe̵̡̢̨͙͚͔̦̱͉̻͍̜̗͕̼̹͎̓̈́͋̂̔̈͑̂̾͂̈̕̕͘͜͠a̶̧̢̧͙̥̤̫̰̞͓̯̠̭͇̣̯̤̍̑̄͊͋͊̆̎̅̈́̓͗ͅḑ̸̜͉̩̘͕̪̠̣̭̺̘̥̫͔̘̲͖̬̯̜̎̈̉͂̔͌̿̆͝ṉ̴̰̘͚̥͇̭̬̙͇̯̟̭͕̙̇̌̂́̑̋̀̿̕̚ą̸̼̹̠͈̦̹͉̙̭̾̈͗ṃ̴̛̯̰̬͎̠̥̻͉̰̾̀̈̿̑̒ͅͅę̴̧̛̥͙̰̰̻̱͙̻̓͋̑͂͛̾̃̅̉̔̂̕͘̕**, the world doesn’t care that you’re Autistic. It isn't ever going to understand," they said._
+_“█████, the world doesn’t care that you’re Autistic. It isn't ever going to understand," they said._
 
 _“You’re right. It isn’t ever going to understand,” I paused. “I just want to be understood by you.”_
 

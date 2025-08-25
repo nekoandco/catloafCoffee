@@ -1,6 +1,6 @@
 ---
 layout: post-wordbreak
-title: "[WIP QUOTE] Words that I can't say."
+title: "Words that I can't say."
 ---
 
 ![window with "i miss you" written in condensation](
@@ -19,15 +19,10 @@ I’m writing this letter under the assumption that you’ll never read this bec
 
 I ruminate. A lot. I wrote about this extensively on my blog, but the short of it is this: My brain gets stuck. It refuses to let things go, even if it’s something from over a decade ago.
 
-> rumination
-> 
-> n.
-> 
-> obsessional thinking involving excessive, repetitive thoughts or themes that interfere with other forms of mental activity. It is a common feature of obsessive-compulsive disorder and generalized anxiety disorder.
-> 
-> _[APA Dictionary of Psychology](https://dictionary.apa.org/rumination)_
+> **rumination** (noun): obsessional thinking involving excessive, repetitive thoughts or themes that interfere with other forms of mental activity. It is a common feature of obsessive-compulsive disorder and generalized anxiety disorder.  
+> [APA Dictionary of Psychology](https://dictionary.apa.org/rumination)
 
-_Note: Autism shares many traits with OCD and anxiety disorders, which are often comorbid in Autistics._
+<div class="sidebar"><i>Autism shares many traits with OCD and anxiety disorders, which are often comorbid in Autistics.</i></div>
 
 I hate rumination. I don’t have any control over it and I usually feel powerless to stop it. Typically, by the time I realize I’m ruminating it’s too late to do anything about it. I just have to grin-and-bear it, as my brain forces me to relive shit from my past. It sucks.
 

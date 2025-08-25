@@ -6,7 +6,7 @@ title: "Presenting: my complete diagnosis story."
 ![person holding yellow flower under blue sky during daytime](https://images.unsplash.com/photo-1588432164059-5af055831b7d?q=80&w=1288&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 <div class="caption">Photo by <a href="https://unsplash.com/@larisabirta">Larisa Birta</a> on <a href="https://unsplash.com/photos/person-holding-yellow-flower-under-blue-sky-during-daytime-Z2NgGk_6O7Q">Unsplash</a></div>
 
-⚠️ **Content warning:** _suicidal ideation_
+<div class="contentWarning">suicidal ideation</div>
 
 _I’m approaching six months since my diagnosis, and I figure sooner-rather-than-later is better to record my experience leading up to, and getting diagnosed Autistic. This one’s going to be lighter on the introspection, but hopefully by recording the entire process I can create a helpful resource for the future. So, without further ado, here’s the whole shebang…_
 
