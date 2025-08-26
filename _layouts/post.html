@@ -4,6 +4,18 @@ layout: default
 
 <div class="post">
   <h1>{{ page.title }}</h1>
-  <span class="fs-4 text-muted">{{ page.date | date: "%Y.%m.%d" }}</span>
+  <h3 class="text-muted">{{ page.subtitle }}</h3>
+  <div class="post-meta">
+  {{ page.date | date: "🗓️ %Y.%m.%d" }}<br>
+  {% capture words %}
+    {{ page.content | number_of_words | minus: 800 }}
+  {% endcapture %}
+  {% unless words contains "-" %}
+    ⏱️ {{ words | plus: 800 | divided_by: 200 | append: " minutes" }}<br>
+  {% endunless %}
+  {% if page.tags.size > 0 %}
+  🏷️ #{{ page.tags | sort | join: " #" }}
+  {% endif %}
+  </div>
   <div class="mt-4">{{ content }}</div>
 </div>

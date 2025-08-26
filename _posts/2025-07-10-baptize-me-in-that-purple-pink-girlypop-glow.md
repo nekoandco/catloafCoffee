@@ -2,6 +2,7 @@
 layout: post
 tags: trans
 title: "Baptize me in that purple-pink girlypop glow."
+subtitle: "No, I will never shut up about this film."
 ---
 
 ![Maddy in planetarium]({{site.baseurl}}/assets/images/tvGlow/planetariumWide.jpg)

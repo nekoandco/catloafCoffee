@@ -2,6 +2,7 @@
 layout: post
 tags: trans
 title: "November 7, the day after the 2024 American election in Japan."
+subtitle: "Fuck."
 ---
 
 ![screenshot of New York Times homepage with headline that reads "Trump's America"]({{site.baseurl}}/assets/images/loose/trumpElect.jpg)

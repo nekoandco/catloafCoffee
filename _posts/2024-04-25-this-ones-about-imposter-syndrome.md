@@ -2,6 +2,7 @@
 layout: post
 tags: autism
 title: "This one's about imposter syndrome."
+subtitle: "A real, fancy-degree-having doctor diagnosed me Autistic, yet still a little voice in my head doubts the validity of their conclusion."
 ---
 
 ![black cat peeking from gray rock](https://images.unsplash.com/photo-1631259307720-3bf59418c31a?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)

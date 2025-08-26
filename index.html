@@ -2,19 +2,32 @@
 layout: default
 ---
 
+<div class="hero">
+{% for post in site.posts limit:1 %}
+  <a href="{{ post.url | relative_url }}" class="archive-title fs-4">
+    {{ post.heroImage }}
+  </a>
+  <a href="{{ post.url | relative_url }}" class="archive-title fs-4">
+    <div class="hero-title">{{ post.title }}</div>
+    <div class="hero-subtitle">{{ post.subtitle }}</div>
+  </a>
+{% endfor %}
+</div>
+
 <div class="archive">
-  {% for post in site.posts %} {% assign currDate = post.date | date: "%Y" %} {%
-  if currDate != date %}
-  <h1 class="archive-year">{{ currDate }}</h1>
-  {% assign date = currDate %} {% endif %}
-  <div class="archive-item">
-    <span class="post-date archive-date fs-4"
-      >{{ post.date | date: "%m.%d" }}</span
-    >
-    <a href="{{ post.url | relative_url }}" class="archive-title fs-4"
-      >{% if post.tags contains "featured" %}⭐{% endif %}
-	  {{ post.title }}</a
-    >
-  </div>
+  {% for post in site.posts offset:1 %} 
+    {% assign currDate = post.date | date: "%Y" %} 
+      {% if currDate != date %}
+        <h1 class="archive-year">{{ currDate }}</h1>
+      {% assign date = currDate %} {% endif %}
+  <a href="{{ post.url | relative_url }}" class="archive-title fs-4">
+    <div class="archive-item">
+      <span class="post-date archive-date fs-4">
+        {{ post.date | date: "%-m.%d" }}
+      </span>
+      {% if post.tags contains "featured" %}⭐{% endif %} {{ post.title }}
+    </div>
+    <div class="archive-subtitle">{{ post.subtitle | truncatewords: 30 }}</div>
+  </a>
   {% endfor %}
 </div>

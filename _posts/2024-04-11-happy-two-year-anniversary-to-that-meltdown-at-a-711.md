@@ -2,6 +2,7 @@
 layout: post
 tags: autism
 title: "Happy two-year anniversary to that meltdown at a 7–11."
+subtitle: "No one said moving to the other side of the world would be easy, but doing so as an Autistic person has been...challenging."
 ---
 
 A couple of years ago I realized a dream of mine: move from America to Japan. Here in Japan, I had my first full-time job after university, and my first opportunity to start life again after COVID. I was so excited—_it’s Japan_!—I could hardly wait. I had a countdown on my phone’s home screen, so every morning when I woke up I could see how much closer I was to waking up on the other side of the world.

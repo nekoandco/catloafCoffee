@@ -2,6 +2,7 @@
 layout: post
 tags: featured
 title: "So long, 2024: a media retrospective."
+subtitle: "A happy post? On catloaf & coffee?!"
 ---
 
 ![3x3 grid of various media]({{site.baseurl}}/assets/images/2024retrospective/header.png)

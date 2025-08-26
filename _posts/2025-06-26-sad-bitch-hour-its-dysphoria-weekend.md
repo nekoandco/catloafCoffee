@@ -2,6 +2,7 @@
 layout: post
 tags: trans featured
 title: "Sad Bitch Hour: It's Dysphoria Weekend™"
+subtitle: "Babe, pass me the Smylex. I'm about to fucking lose it."
 ---
 
 ![rainy, happy devil, and lipstick emojis]({{site.baseurl}}/assets/images/sadBitchHour/sadBitchHourHeader.png)

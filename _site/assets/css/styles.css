@@ -7389,7 +7389,7 @@ textarea.form-control-lg {
   color: #212529 !important;
 }
 
-.text-muted, .caption, .post-date {
+.text-muted, .archive-subtitle, .hero-subtitle, .caption, .post-meta, .post-date {
   color: #6c757d !important;
 }
 
@@ -11693,7 +11693,7 @@ textarea.form-control-lg {
   .text-body {
     color: #e1e1e1 !important;
   }
-  .text-muted, .caption, .post-date {
+  .text-muted, .archive-subtitle, .hero-subtitle, .caption, .post-meta, .post-date {
     color: #9e9e9e !important;
   }
   .text-white {
@@ -12068,7 +12068,7 @@ textarea.form-control-lg {
 }
 
 blockquote {
-  border-left: 10px solid #ffbcd9;
+  border-left: 5px solid #ffbcd9;
   font-style: italic;
   text-align: left;
   margin: 1.5em 10px;
@@ -12103,11 +12103,12 @@ a:hover {
 
 ::selection {
   background: #ffbcd9;
+  color: #5d3737;
 }
 
 .post {
   font-family: "Literata", "Georgia", serif;
-  font-size: 1.3em;
+  font-size: 1.2em;
   text-align: justify;
   margin: auto;
   max-width: 750px;
@@ -12122,6 +12123,17 @@ a:hover {
   max-height: 550px;
 }
 
+.post .fullwidth img {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-height: 100%;
+  max-width: 100vw;
+  width: 100vw;
+}
+
 .post iframe {
   display: block;
   margin: auto;
@@ -12129,6 +12141,10 @@ a:hover {
   margin-bottom: 30px;
   max-width: 75%;
   max-height: 550px;
+}
+
+.post-meta {
+  font-size: 1rem;
 }
 
 .contentWarning, .spoilerWarning, .infoWarning, .sidebar {
@@ -12233,6 +12249,37 @@ a:hover {
   filter: drop-shadow(0px 0px 5px #ffbcd9);
 }
 
+.hero {
+  display: flex;
+  width: 80%;
+  margin: auto;
+  align-items: center;
+  gap: 20px;
+}
+
+.hero-title {
+  font-family: "Jua", "Comic Sans MS", sans-serif;
+  font-size: 2vw;
+}
+
+.hero-subtitle {
+  font-family: "Jua", "Comic Sans MS", sans-serif;
+  font-size: 1vw;
+}
+
+.hero img {
+  height: 100%;
+  width: 100%;
+  max-height: 350px;
+  max-width: 350px;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+.hero img:hover {
+  opacity: 0.8;
+  transition: opacity 0.3s ease;
+}
+
 .archive-year {
   margin-top: 2rem;
   margin-bottom: 1rem;
@@ -12241,10 +12288,21 @@ a:hover {
 .archive-date {
   float: right;
   margin-left: 1rem;
+  font-family: "Literata", "Georgia", serif;
 }
 
 .archive-item {
   margin-bottom: 0.5rem;
+}
+
+.archive-subtitle {
+  position: relative;
+  top: -0.5rem;
+  margin-left: 1rem;
+  margin-bottom: 0.5rem;
+  font-family: "Literata", "Georgia", serif;
+  font-size: 0.9rem;
+  max-width: 75%;
 }
 
 .footer-container {

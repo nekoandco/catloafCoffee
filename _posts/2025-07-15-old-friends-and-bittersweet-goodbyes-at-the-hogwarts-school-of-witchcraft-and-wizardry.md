@@ -2,9 +2,11 @@
 layout: post
 tags: trans featured
 title: "Old friends and bittersweet goodbyes at the Hogwarts School of Witchcraft and Wizardry"
+subtitle: "I'm not a kid anymore, but maybe I never was."
+heroImage: <img src="https://images.unsplash.com/photo-1583997052301-0042b33fc598?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 ---
 
-![Universal Studios Hogwarts castle](https://images.unsplash.com/photo-1583997052301-0042b33fc598?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+<div class="fullwidth"><img src="https://images.unsplash.com/photo-1583997052301-0042b33fc598?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Universal Studios Hogwarts castle"></div>
 <div class="caption">Photo by <a href="https://unsplash.com/@jmeguilos">Jules Marvin Eguilos</a> on <a href="https://unsplash.com/photos/brown-and-gray-concrete-castle-under-blue-sky-during-daytime-YrcfSDVli3Y">Unsplash</a></div>
 <div class="contentWarning">J.K. Rowling</div>
 

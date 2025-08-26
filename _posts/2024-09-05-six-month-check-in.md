@@ -2,6 +2,7 @@
 layout: post
 tags: autism
 title: "Six month check-in."
+subtitle: "Six months down, XXX to go."
 ---
 
 ![a black and white cat licking some grass]({{site.baseurl}}/assets/images/loose/pandaLick.jpg)

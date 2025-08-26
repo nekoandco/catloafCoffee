@@ -2,6 +2,7 @@
 layout: post
 tags: autism featured
 title: "Counting spoons: scenes from life abroad."
+subtitle: "This isn't how it was supposed to go."
 ---
 
 <div class="infoWarning">There are numerous Japanese words used throughout this piece. English definitions are provided in the footnotes.</div>

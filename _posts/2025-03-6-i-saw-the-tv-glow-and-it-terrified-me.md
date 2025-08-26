@@ -2,9 +2,10 @@
 layout: post
 tags: trans featured
 title: "I Saw the TV Glow and it terrified me."
+subtitle: "But in its purple-pink girlypop glow, I found myself."
 ---
 
-![Owen looks at Maddy, who is crying]({{site.baseurl}}/assets/images/tvGlow/hero.jpg)
+<div class="fullwidth"><img src="{{site.baseurl}}/assets/images/tvGlow/hero.jpg" alt="Owen looks at Maddy, who is crying"></div>
 <div class="caption"><i>I Saw the TV Glow</i>, A24</div>
 <div class="contentWarning"> strong language, anti-LGBTQ+ rhetoric</div>
 <div class="spoilerWarning">Vague spoilers for <i>I Saw the TV Glow</i>.</div>
@@ -438,7 +439,7 @@ And yet, the future has never been brighter. I look forward to tomorrow—an exp
 
 > _Transitioning did not solve all my problems. Transitioning gave me problems that I consider more interesting, and it made them feel worth solving._
 
-!["there is still time" written in chalk]({{site.baseurl}}/assets/images/tvGlow/thereIsStillTime.jpg)
+<div class="fullwidth"><img src="{{site.baseurl}}/assets/images/tvGlow/thereIsStillTime.jpg" alt="'there is still time' written in chalk"></div>
 <div class="caption"><i>I Saw the TV Glow</i>, A24</div>
 
 ## Addendum (because this post isn’t self-indulgent enough)
