@@ -19,3 +19,5 @@ I’m a transfem twenty-something living abroad in Japan. The past couple of yea
 - An up-to-date record of my thoughts on various topics. I fully expect that I will come to disagree with things I’ve written, and that’s okay. Each post is only representative of my thoughts and feelings from when I wrote them.
 - Concise. I intentionally leave in tangents and use an irresponsible amount of em-dashes on catloaf & coffee to reflect how my brain actually works/thinks/processes.
 - Written for anyone but myself. The writing I do here is to help myself process. If someone decides to read along, that’s great! But, the goal is not to build an audience. I don’t feel satisfied if I leave all my writing stagnating on a hard drive somewhere, so I self-publish here.
+
+© 2025 Sage
