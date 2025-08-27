@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-poetry
 tags: poetry trans featured
 title: "The mountains are beautiful this time of year."
 subtitle: "They've always been beautiful, truthfully."

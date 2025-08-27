@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-poetry
 tags: poetry
 title: "The coup will be televised."
 subtitle: "And they'll eat it up."

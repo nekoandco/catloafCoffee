@@ -10,7 +10,6 @@ subtitle: "But in its purple-pink girlypop glow, I found myself."
 <div class="alert alert-danger" role="alert">⚠️ strong language, anti-LGBTQ+ rhetoric</div>
 <div class="alert alert-secondary" role="alert">👀 Vague spoilers for <i>I Saw the TV Glow</i>.</div>
 <div class="alert alert-primary" role="alert">ℹ️ This is technically an addition to <a href="{% post_url 2025-01-09-so-long-2024-a-media-retrospective %}">January’s post</a>. However, this piece stands on its own. Read the prior post first… or don’t!</div>
-- - -
 ## Previously on “The Pink Opaque”
 
 ![I Saw the TV Glow movie poster]({{site.baseurl}}/assets/images/tvGlow/tvglow.jpg)

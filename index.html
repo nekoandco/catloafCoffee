@@ -27,7 +27,7 @@ layout: default
       </span>
       {% if post.tags contains "featured" %}⭐{% endif %} {{ post.title }}
     </div>
-    <div class="archive-subtitle truncate-lines-fadeout">{{ post.subtitle | truncatewords: 30 }}</div>
+    <div class="archive-subtitle truncate-lines-fadeout">{{ post.subtitle }}</div>
   </a>
   {% endfor %}
 </div>

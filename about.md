@@ -19,6 +19,3 @@ I’m a transfem twenty-something living abroad in Japan. The past couple of yea
 - An up-to-date record of my thoughts on various topics. I fully expect that I will come to disagree with things I’ve written, and that’s okay. Each post is only representative of my thoughts and feelings from when I wrote them.
 - Concise. I intentionally leave in tangents and use an irresponsible amount of em-dashes on catloaf & coffee to reflect how my brain actually works/thinks/processes.
 - Written for anyone but myself. The writing I do here is to help myself process. If someone decides to read along, that’s great! But, the goal is not to build an audience. I don’t feel satisfied if I leave all my writing stagnating on a hard drive somewhere, so I self-publish here.
-
-### Why should you subscribe?
-Good question. I dunno! You probably shouldn’t. I write just for myself, but you’re welcome to tag along, if you’d like. If you choose to subscribe, you’ll receive my posts directly in your inbox (or your Substack app, if you use that) whenever I publish.

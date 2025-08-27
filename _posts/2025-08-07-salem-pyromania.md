@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-poetry
 tags: poetry
 title: "Salem // Pyromania"
 subtitle: "Deny me and be doomed."

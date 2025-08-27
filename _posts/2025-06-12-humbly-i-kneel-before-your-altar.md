@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-poetry
 tags: poetry trans featured
 title: "Humbly, I kneel before your altar."
 subtitle: "What if this is all there is?"

@@ -66,7 +66,7 @@ a:hover {
   margin: auto;
   margin-top: 30px;
   margin-bottom: 30px;
-  max-width: 75%;
+  max-width: 100%;
   max-height: 550px;
 }
 
@@ -86,7 +86,7 @@ a:hover {
   margin: auto;
   margin-top: 30px;
   margin-bottom: 30px;
-  max-width: 75%;
+  max-width: 100%;
   max-height: 550px;
 }
 
@@ -103,6 +103,12 @@ a:hover {
   max-width: 90%;
   padding: 1em 25px;
   text-align: justify;
+  border: 2px solid #ffbcd9;
+  border-radius: 5px;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
 }
 
 .substack-post-embed {
@@ -112,6 +118,10 @@ a:hover {
 
  .wordbreak {
 	overflow-wrap: break-word;
+	text-align: left;
+}
+
+.poetry {
 	text-align: left;
 }
 
@@ -309,9 +319,8 @@ pre.highlight {
     background-color: #1e1e1e;
   }
   
-  .contentWarning, .spoilerWarning, .infoWarning, .sidebar {
+  .sidebar {
   background: #333333;
-  border: 2px solid #ffbcd9;
   }
   
   .footer-icon-links {
@@ -319,11 +328,11 @@ pre.highlight {
     color: #e1e1e1;
   }
 
-  .footer-icon-links:hover,
+  /* .footer-icon-links:hover,
   .footer-icon-links:focus {
     text-decoration: none;
     color: #e1e1e1;
-  }
+  } */
 
   .archive-title {
     color: #e1e1e1;
