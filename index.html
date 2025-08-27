@@ -22,12 +22,12 @@ layout: default
       {% assign date = currDate %} {% endif %}
   <a href="{{ post.url | relative_url }}" class="archive-title fs-4">
     <div class="archive-item">
-      <span class="post-date archive-date fs-4">
+      <span class="archive-date fs-4">
         {{ post.date | date: "%-m.%d" }}
       </span>
       {% if post.tags contains "featured" %}⭐{% endif %} {{ post.title }}
     </div>
-    <div class="archive-subtitle">{{ post.subtitle | truncatewords: 30 }}</div>
+    <div class="archive-subtitle truncate-lines-fadeout">{{ post.subtitle | truncatewords: 30 }}</div>
   </a>
   {% endfor %}
 </div>

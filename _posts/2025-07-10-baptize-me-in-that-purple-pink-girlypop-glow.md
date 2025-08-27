@@ -8,8 +8,8 @@ subtitle: "No, I will never shut up about this film."
 ![Maddy in planetarium]({{site.baseurl}}/assets/images/tvGlow/planetariumWide.jpg)
 <div class="caption"><i>I Saw the TV Glow</i>, A24</div>
 
-<div class="spoilerWarning">Vague spoilers for <i>I Saw the TV Glow</i>.</div>
-<div class="infoWarning">Originally posted on <a href="https://letterboxd.com/neko_and_co/film/i-saw-the-tv-glow/5/">Letterboxd</a>, with a bit of added polishing for <b>catloaf & coffee</b>.</div>
+<div class="alert alert-secondary" role="alert">👀 Vague spoilers for <i>I Saw the TV Glow</i>.</div>
+<div class="alert alert-primary" role="alert">ℹ️ Originally posted on <a href="https://letterboxd.com/neko_and_co/film/i-saw-the-tv-glow/5/">Letterboxd</a>, with a bit of added polishing for <b>catloaf & coffee</b>.</div>
 
 Once one pushes past the initial fear, starting transition is exciting. It’s time to start hormones, buy new clothes, try a new hairstyle, learn makeup, and get a piercing or two. Eventually, though, some time passes and one has checked all those little boxes, and now there’s not much left to do but wait.
 

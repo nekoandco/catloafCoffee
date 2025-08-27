@@ -129,10 +129,12 @@ For this, you will be the recipient of my fury
 
 Beware  
 This is my calling card  
-Deny me and be doomed  
+Deny me and be doomed[^1]  
 Ere long you will lose that which you cannot replace  
 
 Soon we’ll be bathed in illustrious flame  
 Flesh will give way to bone  
 Bone will turn to ash  
-And at last, I will be rid of you  
+And at last, I will be rid of you
+- - -
+[^1]: _Hedwig and the Angry Inch_, 2001

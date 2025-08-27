@@ -7,7 +7,7 @@ subtitle: "I know you can hear me."
 
 ![black microphone on black background](https://images.unsplash.com/photo-1604266042274-0c081fdb854e?q=80&w=1753&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 <div class="caption">Photo by <a href="https://unsplash.com/@justdushawn">Dushawn Jovic</a> on <a href="https://unsplash.com/photos/black-microphone-on-black-background-qYWS0y8Bmf4">Unsplash</a></div>
-<div class="contentWarning">suicidal ideation, self-harm</div>
+<div class="alert alert-danger" role="alert">⚠️ suicidal ideation, self-harm</div>
 <div class="sidebar">
 <h3>‼️ CORRECTION: 2025.02.04</h3>
  In the original version of this piece I erroneously stated that the average Autistic lifespan is 36 years. It is not. This was a misinterpretation of a 2018 <a href="https://doi.org/10.2105/AJPH.2017.303696">study dealing with injury mortality</a>. The actual average Autistic lifespan is a much more palatable 70-75 years according to a recent <a href="https://doi.org/10.1016/j.lanepe.2023.100776">study from the UK</a>.

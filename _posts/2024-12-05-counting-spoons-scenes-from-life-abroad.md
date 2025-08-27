@@ -5,7 +5,7 @@ title: "Counting spoons: scenes from life abroad."
 subtitle: "This isn't how it was supposed to go."
 ---
 
-<div class="infoWarning">There are numerous Japanese words used throughout this piece. English definitions are provided in the footnotes.</div>
+<div class="alert alert-primary" role="alert">ℹ️ There are numerous Japanese words used throughout this piece. English definitions are provided in the footnotes.</div>
 <div class="sidebar">
 <h2>Author’s note</h2>
 I started writing this post intending to discuss why I came to Japan in the first place, in anticipation of deciding whether to stay here for another year. As I was exploring my reasons for moving abroad, I began to dive into how deficits have shaped my experiences here. I came to Japan with so many ideas of what I wanted it to be, but very few, if any, of those ideas have panned out, and it’s entirely because I am simply not able to break out of my routines easily. I just don’t have the capacity to do so. Most weeks, it feels like my routines are the only thing keeping everything together. As time continues to pass, I grow increasingly embarrassed at having “wasted” all this time abroad.<br><br>

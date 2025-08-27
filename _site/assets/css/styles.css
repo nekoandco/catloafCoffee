@@ -12087,14 +12087,17 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Jua", "Comic Sans MS", sans-serif;
+  font-family: "Jua", sans-serif;
   text-align: left;
+}
+
+h3.text-muted, h3.archive-subtitle, h3.hero-subtitle, h3.caption, h3.post-meta, h3.post-date {
+  font-family: "Playpen Sans", serif;
+  font-size: 1em;
 }
 
 a {
   color: #5d3737;
-  /* text-decoration: none;
-  font-weight: bold; */
 }
 
 a:hover {
@@ -12106,10 +12109,16 @@ a:hover {
   color: #5d3737;
 }
 
+.alert {
+  font-size: 0.75em;
+}
+
 .post {
-  font-family: "Literata", "Georgia", serif;
-  font-size: 1.2em;
+  font-family: "Georgia", serif;
+  font-size: 1.3em;
   text-align: justify;
+  text-justify: auto;
+  hyphens: auto;
   margin: auto;
   max-width: 750px;
 }
@@ -12147,50 +12156,10 @@ a:hover {
   font-size: 1rem;
 }
 
-.contentWarning, .spoilerWarning, .infoWarning, .sidebar {
-  background: #F8F2F2;
-  border: 2px solid #5d3737;
-  border-radius: 5px;
-  text-align: left;
-  font-size: 0.8em;
-  max-width: 70%;
-  margin: auto;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  padding: 0.5em 10px;
-}
-
 .sidebar {
   max-width: 90%;
   padding: 1em 25px;
   text-align: justify;
-}
-
-.contentWarning:before {
-  color: #ccc;
-  content: "⚠️";
-  font-size: 1.5em;
-  line-height: 0.1em;
-  margin-right: 0.25em;
-  vertical-align: -0.2em;
-}
-
-.spoilerWarning:before {
-  color: #ccc;
-  content: "👀";
-  font-size: 1.5em;
-  line-height: 0.1em;
-  margin-right: 0.25em;
-  vertical-align: -0.2em;
-}
-
-.infoWarning:before {
-  color: #ccc;
-  content: "ℹ️";
-  font-size: 1.5em;
-  line-height: 0.1em;
-  margin-right: 0.25em;
-  vertical-align: -0.2em;
 }
 
 .substack-post-embed {
@@ -12225,7 +12194,7 @@ a:hover {
 }
 
 .titlefont {
-  font-family: "Jua", "Comic Sans MS", sans-serif;
+  font-family: "Jua", sans-serif;
 }
 
 .content {
@@ -12238,8 +12207,8 @@ a:hover {
   left: 0px;
   background-color: #ffecec;
   box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
-  font-family: "Jua", "Comic Sans MS", sans-serif;
-  font-size: 1.25rem;
+  font-family: "Jua", sans-serif;
+  font-size: 1.3rem;
   text-align: bottom;
   margin-bottom: 2rem;
   /* border-bottom: 0.125rem solid hsl(0, 0%, 30%); */
@@ -12251,27 +12220,31 @@ a:hover {
 
 .hero {
   display: flex;
-  width: 80%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  max-width: 750px;
   margin: auto;
   align-items: center;
+  justify-content: center;
+  text-align: center;
   gap: 20px;
 }
 
 .hero-title {
-  font-family: "Jua", "Comic Sans MS", sans-serif;
-  font-size: 2vw;
+  font-family: "Jua", sans-serif;
+  font-size: 1em;
 }
 
 .hero-subtitle {
-  font-family: "Jua", "Comic Sans MS", sans-serif;
-  font-size: 1vw;
+  font-family: "Playpen Sans", sans-serif;
+  font-size: 0.75em;
 }
 
 .hero img {
   height: 100%;
   width: 100%;
   max-height: 350px;
-  max-width: 350px;
+  max-width: 750px;
   box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
 }
 
@@ -12283,12 +12256,14 @@ a:hover {
 .archive-year {
   margin-top: 2rem;
   margin-bottom: 1rem;
+  font-family: "Courier New", "Georgia", serif;
+  font-weight: bold;
 }
 
 .archive-date {
   float: right;
   margin-left: 1rem;
-  font-family: "Literata", "Georgia", serif;
+  font-family: "Courier New", "Georgia", serif;
 }
 
 .archive-item {
@@ -12298,14 +12273,14 @@ a:hover {
 .archive-subtitle {
   position: relative;
   top: -0.5rem;
-  margin-left: 1rem;
   margin-bottom: 0.5rem;
-  font-family: "Literata", "Georgia", serif;
-  font-size: 0.9rem;
+  font-family: "Playpen Sans", "Georgia", serif;
+  font-size: 1rem;
   max-width: 75%;
 }
 
 .footer-container {
+  font-family: "Playpen Sans", "Georgia", serif;
   text-align: center;
 }
 
@@ -12320,15 +12295,14 @@ a:hover {
   color: #212529;
 }
 
-.footer-icon-links:hover,
-.footer-icon-links:focus {
+.footer-icon-links:hover {
   text-decoration: none;
-  color: #212529;
+  color: #ffbcd9;
 }
 
 .archive-title {
   color: #5d3737;
-  font-family: "Jua", "Comic Sans MS", sans-serif;
+  font-family: "Jua", sans-serif;
   text-decoration: none;
   font-weight: normal;
 }
@@ -12348,6 +12322,19 @@ pre.highlight {
 .light-avatar,
 .dark-avatar {
   margin-right: 0.25rem !important;
+}
+
+.truncate-lines-fadeout { /* credit to https://www.roboleary.net/snippets/truncated-text-multiple-lines-fadeout/ */
+  --num-of-lines: 1;
+  overflow: hidden;
+  max-height: calc(var(--num-of-lines) * 1lh);
+  /* fade out */
+  --fadeout-height: 1lh;
+  --fadeout-width: 25%;
+  mask-image: linear-gradient(black, black), linear-gradient(to right, hsl(0, 0%, 0%) 0 calc(100% - var(--fadeout-width)), hsla(0, 0%, 0%, 0));
+  mask-size: 100% calc(100% - var(--fadeout-height)), 100% var(--fadeout-height);
+  mask-position: top, bottom;
+  mask-repeat: no-repeat;
 }
 
 @media (prefers-color-scheme: dark) {

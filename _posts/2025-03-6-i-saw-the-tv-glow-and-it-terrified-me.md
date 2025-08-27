@@ -7,9 +7,9 @@ subtitle: "But in its purple-pink girlypop glow, I found myself."
 
 <div class="fullwidth"><img src="{{site.baseurl}}/assets/images/tvGlow/hero.jpg" alt="Owen looks at Maddy, who is crying"></div>
 <div class="caption"><i>I Saw the TV Glow</i>, A24</div>
-<div class="contentWarning"> strong language, anti-LGBTQ+ rhetoric</div>
-<div class="spoilerWarning">Vague spoilers for <i>I Saw the TV Glow</i>.</div>
-<div class="infoWarning">This is technically an addition to <a href="{% post_url 2025-01-09-so-long-2024-a-media-retrospective %}">January’s post</a>. However, this piece stands on its own. Read the prior post first… or don’t!</div>
+<div class="alert alert-danger" role="alert">⚠️ strong language, anti-LGBTQ+ rhetoric</div>
+<div class="alert alert-secondary" role="alert">👀 Vague spoilers for <i>I Saw the TV Glow</i>.</div>
+<div class="alert alert-primary" role="alert">ℹ️ This is technically an addition to <a href="{% post_url 2025-01-09-so-long-2024-a-media-retrospective %}">January’s post</a>. However, this piece stands on its own. Read the prior post first… or don’t!</div>
 - - -
 ## Previously on “The Pink Opaque”
 

@@ -7,7 +7,7 @@ subtitle: "Babe, pass me the Smylex. I'm about to fucking lose it."
 
 ![rainy, happy devil, and lipstick emojis]({{site.baseurl}}/assets/images/sadBitchHour/sadBitchHourHeader.png)
 
-<div class="contentWarning">Does this need a content warning? I don’t know. Listen honey, this piece is full of bitterness and resentment and hostility and a general disdain for any and all life. If you’re not in a good place to receive that, skip this one! And if you are in a good place, hey, maybe skip this one anyway! You’ve got better things to do, I promise.<br><br>
+<div class="alert alert-danger" role="alert">⚠️ Does this need a content warning? I don’t know. Listen honey, this piece is full of bitterness and resentment and hostility and a general disdain for any and all life. If you’re not in a good place to receive that, skip this one! And if you are in a good place, hey, maybe skip this one anyway! You’ve got better things to do, I promise.<br><br>
 
 And like, obviously this post isn’t safe for work, but if you clicked on a post titled “Sad Bitch Hour” thinking it’d be safe for work, who’s the clown here? It ain’t me, sister.</div>
 
