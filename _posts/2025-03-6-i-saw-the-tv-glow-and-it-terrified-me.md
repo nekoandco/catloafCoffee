@@ -12,7 +12,7 @@ subtitle: "But in its purple-pink girlypop glow, I found myself."
 <div class="alert alert-primary" role="alert">ℹ️ This is technically an addition to <a href="{% post_url 2025-01-09-so-long-2024-a-media-retrospective %}">January’s post</a>. However, this piece stands on its own. Read the prior post first… or don’t!</div>
 ## Previously on “The Pink Opaque”
 
-![I Saw the TV Glow movie poster]({{site.baseurl}}/assets/images/tvGlow/tvglow.jpg)
+![I Saw the TV Glow movie poster]({{site.baseurl}}/assets/images/tvGlow/tvGlow.jpg)
 <div class="caption">Jane Schoenbrun (A24), 2024</div>
 
 _I Saw the TV Glow_ is a horror film, but not really. There are no monsters, nor any scares. It isn’t gory or especially violent. It’s a horror film, except it isn’t scary.
