@@ -65,7 +65,7 @@ Thinking about going out into public like _this_ makes me want to die, though. S
 
 Alright, it’s a stupid fucking idea, but it’s exactly the kind of stupid fucking idea that I’m currently prone to going along with, and sure enough RB falls for it. Ha, dumbass! Not even estrogen can vanquish the procrastinator within me.
 
-I should probably actually do something with my day, though. I may be a sad bitch, but I at least have enough sense to realize that wallowing around in bed all day isn’t actually as intelligent of a plan as I might think. Get up_,_ RB commands. Ugh. Just a few more minutes. Get the fuck up, RB screams. Fine, I’ll get up but you didn’t have to be a bitch about it. I was gonna get up anyway. Eventually.
+I should probably actually do something with my day, though. I may be a sad bitch, but I at least have enough sense to realize that wallowing around in bed all day isn’t actually as intelligent of a plan as I might think. Get up, RB commands. Ugh. Just a few more minutes. Get the fuck up, RB screams. Fine, I’ll get up but you didn’t have to be a bitch about it. I was gonna get up anyway. Eventually.
 
 I drag myself to the mirror and like, how the fuck do you think I feel about what I see? Dark bags under my eyes like I’m a drug addict, and two day’s worth of beard growth because I felt so gross yesterday that I couldn’t be fucked to even bother shaving. I mean, what’s even the point if I’m just going to look like a dude anyway? At best, maybe I can look like a fag, but you know that’s not really the reason I started transition, is it? No one had any problem with pinning me as a fag before I started transitioning, anyhow.
 
