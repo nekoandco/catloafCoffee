@@ -52,7 +52,7 @@ _I took a sip of my coffee. This conversation was going nowhere fast. It was cle
 
 _They claimed to support me and my diagnosis, and yet…_
 
-_It was now or never. It was time to read the letter._
+_It was now or never. It was time to read [the letter]({% post_url 2024-10-03-words-that-i-cant-say %})._
 
 <div class="break"><img src="{{site.baseurl}}/assets/images/break-paws.png"></div>
 
