@@ -12,7 +12,7 @@ subtitle: "This isn't how it was supposed to go."
       <a class="btn" data-bs-toggle="collapse" href="#collapseOne">📚 Table of Contents
       </a>
     </div>
-    <div id="collapseOne" class="collapse" data-bs-parent="#accordion">
+    <div id="collapseOne" class="collapse show" data-bs-parent="#accordion">
       <div class="card-body">
       	<ol type="i">
         	<li><a href="#section1">The party</a></li>
