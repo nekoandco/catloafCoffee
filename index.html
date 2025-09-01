@@ -2,17 +2,17 @@
 layout: default
 ---
 
-<div class="hero">
-{% for post in site.posts limit:1 %}
-  <a href="{{ post.url | relative_url }}" class="archive-title fs-4">
-    {{ post.heroImage }}
-  </a>
-  <a href="{{ post.url | relative_url }}" class="archive-title fs-4">
-    <div class="hero-title">{{ post.title }}</div>
-    <div class="hero-subtitle">{{ post.subtitle }}</div>
-  </a>
-{% endfor %}
-</div>
+<!-- Element to contain animated typing -->
+<span id="element"></span>
+<!-- Load library from the CDN -->
+<script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+<!-- Setup and start animation! -->
+<script>
+    var typed = new Typed('#element', {
+        strings: ['<i>First</i> sentence.', '&amp; a second sentence.'],
+        typeSpeed: 50,
+    });
+</script>
 
 <div class="archive">
   {% for post in site.posts offset:1 %} 
