@@ -6,6 +6,39 @@ subtitle: "A happy post? On catloaf & coffee?!"
 ---
 
 ![3x3 grid of various media]({{site.baseurl}}/assets/images/2024retrospective/header.png)
+<div id="accordion">
+  <div class="card">
+    <div class="card-header">
+      <a class="btn" data-bs-toggle="collapse" href="#collapseOne">📚 Table of Contents
+      </a>
+    </div>
+    <div id="collapseOne" class="collapse" data-bs-parent="#accordion">
+      <div class="card-body">
+      	<ol type="i">
+        	<li><a href="#section1">Music</a></li>
+        		<ul>
+        			<li><a href="#section2">Willow Avalon</a></li>
+       				<li><a href="#section3">Noah Kahan</a></li>
+       				<li><a href="#section4">Taylor Swift</a></li>
+       			</ul>
+       		<li><a href="#section5">Games</a></li>
+       			<ul>
+       				<li><a href="#section6"><i>Hypnospace Outlaw</i></a></li>
+       				<li><a href="#section7"><i>STALKER: GAMMA</i></a></li>
+       				<li><a href="#section8"><i>Vampire: The Masquerade — Bloodlines</i></a></li>
+       			</ul>
+       		<li><a href="#section9">Film</a></li>
+       			<ul>
+       				<li><a href="#section10"><i>Little Women</i></a></li>
+       				<li><a href="#section11"><i>The Devil Wears Prada</i></a></li>
+       				<li><a href="#section12"><i>I Saw the TV Glow</i></a></li>
+       			</ul>
+       	</ol>
+      </div>
+    </div>
+  </div>
+</div>
+<br>
 
 Here we are, at the start of the new year. 2024 was a hell of year for me: It began with an Autism diagnosis and ended with… well, I’ll get to that later. I still have a long, long way to go, but I’m pleased with how far I’ve come in a relatively short time. If I think about where I was last January and compare that to now, well… I’m in the exact same place, actually—still in Japan. But _mentally_? Night and day.
 
@@ -21,7 +54,7 @@ Hey, there’s going to be plenty of time to continue digging up my emotions. An
 
 Each year, I look back on the year through the media I consume. Admittedly, as a rather reclusive individual, media is sometimes the primary way in which I’m able to experience the world—this has perhaps never been more true than in 2024—so I find it interesting to look at the parallels between my personal life and the music I chose to listen to, games I chose to play, and the films I chose to watch. Below are my top three picks from each medium, along with some prose explaining their significance.
 
-## Music
+<h2 id="section1">Music</h2>
 
 ![list of music artists by playtime, including Taylor Swift, Noah Kahn, TOOL, and Sabrina Carpenter]({{site.baseurl}}/assets/images/2024retrospective/musicCap.png)
 <div class="caption">via Apple Music</div>
@@ -32,7 +65,7 @@ In a way, it makes sense. 2024 is the year I processed (or started processing) a
 
 So, while there is one artist that clearly stands above all others this year, let me first give a couple of honorable mentions.
 
-### Willow Avalon
+<h3 id="section2">Willow Avalon</h3>
 
 ![headshot of Willow Avalon]({{site.baseurl}}/assets/images/2024retrospective/willowAvalon.jpg)
 <div class="caption"><i>Country Never Leaves</i> EP (Assemble Sound, Atlantic Records), 2024</div>
@@ -55,7 +88,7 @@ Her debut EP, _Country Never Leaves_, dropped late October and its titular track
 > Sometimes you love what you leave  
 > Two suitcases full of memories
 
-### Noah Kahan
+<h3 id="section3">Noah Kahan</h3>
 
 ![Stick Season album cover]({{site.baseurl}}/assets/images/2024retrospective/noahKahan.jpg)
 <div class="caption"><i>Stick Season</i> (Mercury Records, Republic Records), 2022</div>
@@ -69,7 +102,7 @@ I could go on and on about all the songs of Kahan’s that have impacted me, but
 > We ain’t angry at you, love  
 > We’ll be waiting for you, love
 
-### Taylor Swift
+<h3 id="section4">Taylor Swift</h3>
 
 ![folklore album cover]({{site.baseurl}}/assets/images/2024retrospective/taylorSwift.jpeg)
 <div class="caption"><i>folklore</i> (Republic Records), 2020</div>
@@ -109,7 +142,7 @@ And yes, in the good times, Swift’s music was there. Alongside celebratory, eu
 
 I’m sorry I left, but I’m back now. 2024 was the year I became a Swiftie again, and I’m glad to have Swift’s music to keep me company in the year ahead.
 
-## Games
+<h2 id="section5">Games</h2>
 
 ![mosiac of various video game covers]({{site.baseurl}}/assets/images/2024retrospective/backloggdCap.png)
 <div class="caption">via Backloggd</div>
@@ -124,7 +157,7 @@ There were some disappointments, too. I was really looking forward to _Dragon’
 
 I digress. Let’s shift focus to games worth celebrating. Of the games I played in 2024, three in particular stood above all the others…
 
-### _Hypnospace Outlaw_
+<h3 id="section6"><i>Hypnospace Outlaw</i></h3>
 
 ![Hypnospace Outlaw cover]({{site.baseurl}}/assets/images/2024retrospective/hynospaceOutlaw.jpg)
 <div class="caption">Tendershoot (No More Robots), 2019</div>
@@ -152,7 +185,7 @@ It’s just nice. _Hypnospace_ offers an escape to a much simpler and happier ti
 
 _Hypnospace Outlaw_ offered me a cozy fantasy in which I could escape the real world and _its_ online spaces. I’m excitedly awaiting its sequel, _Dreamsettler_, which will focus on the early 2000s internet.
 
-### _STALKER: GAMMA_
+<h3 id="section7"><i>STALKER: GAMMA</i></h3>
 
 ![STALKER GAMMA screenshot]({{site.baseurl}}/assets/images/2024retrospective/stalkerGamma.jpg)
 <div class="caption">Grok, GSC Game World, various others; in development</div>
@@ -175,7 +208,7 @@ _GAMMA_ is hardly accessible. The process to even download the mod is a feat of 
 
 I spent well over 60 hours last year in the Zone. I went from a sad sack of shit that couldn’t shoot straight to save their life, to an elite sharpshooter that would make even the most adept Spetsnaz soldier shake in their boots. I trudged through radioactive swamps, braved the terrifying corridors of abandoned research labs, crept through the oppressive streets of Pripyat, and yes, finally made it to the site of the Chornobyl reactor. It was one of the most memorable experiences I’ve ever had in games. The recently released _STALKER 2: Heart of Chornobyl_ is a decent time, but it is unable to replicate the incredible highs of _GAMMA_—this is the sort of experience that can only be found in a fan-made project.
 
-### _Vampire: The Masquerade — Bloodlines_
+<h3 id="section8"><i>Vampire: The Masquerade — Bloodlines</i></h3>
 
 ![STALKER GAMMA screenshot]({{site.baseurl}}/assets/images/2024retrospective/vampireBloodlines.jpg)
 <div class="caption">Troika Games (Activision), 2004</div>
@@ -192,7 +225,7 @@ Players slowly delve deeper into So-Cal’s underworld, gradually uncovering a c
 
 Admittedly, _Bloodlines_ starts to dip in quality toward the end, when Troika Games was rushing to finish the game before its release. It hardly matters. When _Bloodlines_ is good, _Bloodlines_ is _good_—and it’s _good_ for the majority of its runtime. Perhaps the worst thing about the game is that there isn’t more of it. I’ve looked for similar games, but no other game hits the same marks that _Bloodlines_ does. A sequel is currently in development, but given the [pre-release footage](https://youtu.be/vZdHm47l33I?si=g3B7ny6IQCpQm9_z) that has been released so far, I don’t have high hopes for it. For the time being, _Bloodlines_ is a very special game that offers something that can’t be found anywhere else.
 
-## Film
+<h2 id="section9">Film</h2>
 
 ![mosiac of various film posters]({{site.baseurl}}/assets/images/2024retrospective/letterboxdCap.png)
 <div class="caption">via Letterboxd</div>
@@ -201,7 +234,7 @@ Last year, I set a record for the most films I’ve watched in a year: [128 film
 
 I kicked off the year in spectacular pink hues with _Barbie_; took cover from gunfire with a _John Wick_ marathon; mused about war with _Oppenheimer_ and _Dune: Part Two_ in one glorious weekend; discovered a brilliant classic in _Paris, Texas_; crept about dark, atmospheric corridors in an _Alien_ marathon; gossiped with Elle Woods in _Legally Blonde_ and Cher Horowitz in _Clueless_; spent the entirety of October cowering in fear as I binged nonstop horror flicks both good (_Late Night with the Devil_) and bad (_Terrifier_); traversed a war-torn United States in Alex Garland’s likely final directorial effort, _Civil War_; and beheld Christopher Nolan’s magnum opus, _Interstellar_, return to IMAX for its tenth anniversary. There are so, _so_ many spectacular films I saw last year (and some [truly terrible](https://catloafcoffee.substack.com/p/i-finally-watched-sias-debut-film) ones, too) and I want to gush about all of them. But this piece is already long enough, so without further ado, here are my three standouts from the past year…
 
-### _Little Women_
+<h3 id="section10"><i>Little Women</i></h3>
 
 ![Little Women film poster]({{site.baseurl}}/assets/images/2024retrospective/littleWomen.jpg)
 <div class="caption">Greta Gerwig (Sony Pictures), 2019</div>
@@ -214,7 +247,7 @@ _Little Women_’s sets are immaculately crafted; the spaces feel genuine and _l
 
 For the film’s 135-minute runtime, I felt like one of the girls, laughing and crying right alongside Jo and Meg and Amy and Beth. _Little Women_ is a delightful slice of life, and I’m so glad to have gotten to know the March family.
 
-### _The Devil Wears Prada_
+<h3 id="section11"><i>The Devil Wears Prada</i></h3>
 
 ![The Devil Wears Prada film poster]({{site.baseurl}}/assets/images/2024retrospective/devilPrada.jpg)
 <div class="caption">David Frankel (20th Century Fox), 2006</div>
@@ -229,7 +262,7 @@ It is _so_ good.
 
 I could go on, but sometimes less is more: This movie fucks. _That’s all._
 
-### _I Saw the TV Glow_
+<h3 id="section12"><i>I Saw the TV Glow</i></h3>
 
 ![I Saw the TV Glow film poster]({{site.baseurl}}/assets/images/tvGlow/tvGlow.jpg)
 <div class="caption">Jane Schoenbrun (A24), 2024</div>

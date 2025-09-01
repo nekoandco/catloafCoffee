@@ -10,7 +10,34 @@ subtitle: "But in its purple-pink girlypop glow, I found myself."
 <div class="alert alert-danger" role="alert">⚠️ strong language, anti-LGBTQ+ rhetoric</div>
 <div class="alert alert-secondary" role="alert">👀 Vague spoilers for <i>I Saw the TV Glow</i>.</div>
 <div class="alert alert-primary" role="alert">ℹ️ This is technically an addition to <a href="{% post_url 2025-01-09-so-long-2024-a-media-retrospective %}">January’s post</a>. However, this piece stands on its own. Read the prior post first… or don’t!</div>
-## Previously on “The Pink Opaque”
+<div id="accordion">
+  <div class="card">
+    <div class="card-header">
+      <a class="btn" data-bs-toggle="collapse" href="#collapseOne">📚 Table of Contents
+      </a>
+    </div>
+    <div id="collapseOne" class="collapse" data-bs-parent="#accordion">
+      <div class="card-body">
+      	<ol type="i">
+        	<li><a href="#section1">Previously on "The Pink Opaque"</a></li>
+       		<li><a href="#section2">Act One: Sucking down the Luna Juice</a></li>
+       		<li><a href="#section3">Righteous immorality</a></li>
+       		<li><a href="#section4">Some kids were stuffed in lockers, I was stuffed in a closet</a></li>
+       		<li><a href="#section5">Soft-boiled</a></li>
+       		<li><a href="#section6">Act Two: Into the frying pan</a></li>
+       		<li><a href="#section7">The new morning groove</a></li>
+       		<li><a href="#section8">Act Three: Rebirth (New hemisphere, new me)</a></li>
+       		<li><a href="#section9">The magic potion, the slaying of a great beast, and the Burger Council</a></li>
+       		<li><a href="#section10">Next time on “The Pink Opaque”</a></li>
+       		<li><a href="#section11">Addendum (because this post isn’t self-indulgent enough)</a></li>
+       		<li><a href="#section12">Acknowledgments</a></li>
+       	</ol>
+      </div>
+    </div>
+  </div>
+</div>
+<br>
+<h2 id="section1">Previously on “The Pink Opaque”</h2>
 
 ![I Saw the TV Glow movie poster]({{site.baseurl}}/assets/images/tvGlow/tvGlow.jpg)
 <div class="caption">Jane Schoenbrun (A24), 2024</div>
@@ -57,7 +84,7 @@ I sat frozen in my seat. Do I cry? Scream? Smile? A million emotions swirled wit
 
 I had felt a similar sensation once before. A couple of years ago, when I began to become aware of my Autistic identity, I felt an overwhelming mix of emotions: fear of being labelled Autistic, joy at discovering a key part of myself, sorrow at all the time lost. The feelings I felt in this moment were similar, but one emotion was much more prominent this time: pure, unbridled terror.
 
-## Act One: Sucking down the Luna Juice
+<h2 id="section2">Act One: Sucking down the Luna Juice</h2>
 
 ![closeup of Mr. Melancholy]({{site.baseurl}}/assets/images/tvGlow/melancholy.jpg)
 <div class="caption"><i>I Saw the TV Glow</i>, A24</div>
@@ -88,7 +115,7 @@ At least I can take solace in having rediscovered these memories.
 > Or do you ever have a hard time distinguishing between what happened in the show and what happened in real life?  
 > Like somehow the memories got jumbled around?
 
-### Righteous immorality
+<h3 id="section3">Righteous immorality</h3>
 
 ![young Owen under gym parachute in trans flag colors]({{site.baseurl}}/assets/images/tvGlow/parachute.jpg)
 <div class="caption"><i>I Saw the TV Glow</i>, A24</div>
@@ -116,7 +143,7 @@ There were multiple things that pushed me to leave the faith, but a prominent is
 
 The church’s influence extended far past its four walls: When I finally left Christianity in (a public) high school, I was taken aback by my classmates’ reactions. Many of them whom I’d never heard mention things like “God” or “Jesus” told me how stupid I was for not believing in God. Being Christian was the only acceptable state of being. If one wasn’t Christian, well, _what’s wrong with you?_
 
-### Some kids were stuffed in lockers, I was stuffed in a closet
+<h3 id="section4">Some kids were stuffed in lockers, I was stuffed in a closet</h3>
 
 ![Owen in front of a campfire]({{site.baseurl}}/assets/images/tvGlow/fireside.jpg)
 <div class="caption"><i>I Saw the TV Glow</i>, A24</div>
@@ -162,7 +189,7 @@ By the time I graduated, I wore straight-cut jeans and lugged around a dull blac
 > Sorry.  
 > I’m sorry.
 
-### Soft-boiled
+<h3 id="section5">Soft-boiled</h3>
 
 ![Owen and Maddy walking on a football field]({{site.baseurl}}/assets/images/tvGlow/gravewalk.jpg)
 <div class="caption"><i>I Saw the TV Glow</i>, A24</div>
@@ -185,7 +212,7 @@ At the end of that piece, I wrote:
 
 These words are the clear product of repression. I was _so_ close, yet it wouldn’t be until almost a decade later that I would finally put the pieces together.
 
-## Act Two: Into the frying pan
+<h2 id="section6">Act Two: Into the frying pan</h2>
 
 ![Owen and Maddy in profile, bathed in pink light]({{site.baseurl}}/assets/images/tvGlow/pinkGlow.jpg)
 <div class="caption"><i>I Saw the TV Glow</i>, A24</div>
@@ -194,7 +221,7 @@ Coming out as Autistic was scary, but at the same time it was something that eve
 
 Coming out as trans is different. People have _opinions_ on what “trans” means. To some, it is merely a term that refers to those whose assigned gender does not match their identity; to others, it is a term indicative _of_ identity and a greater community; to others still, it is a term that refers to predators. Trans hate is so prevalent at the moment that it is a prominent feature of the current U.S. administration.
 <div class="sidebar">
-<h3>The new morning groove</h3>
+<h3 id="section7">The new morning groove</h3>
 
 It’s become something of a ritual of mine to wake up, grab a coffee, and peruse my home country’s latest efforts to erase my existence.
 <ul>
@@ -283,7 +310,7 @@ I’ve been running from myself for my entire life. Maddy forced me to confront 
 > So that the show can continue.  
 > So that we can get to season six.
 
-## Act Three: Rebirth
+<h2 id="section8">Act Three: Rebirth</h2>
 ### New hemisphere, new me
 
 ![Maddy with Owen in a dress, facing away from the camera, and Mr. Melancholy in the sky]({{site.baseurl}}/assets/images/tvGlow/football.jpg)
@@ -301,7 +328,7 @@ In the wake of that euphoria, it became clear that it was time to fully embrace 
 
 It was time to leave the Midnight Realm once and for all.
 
-### The magic potion, the slaying of a great beast, and the Burger Council
+<h3 id="section9">The magic potion, the slaying of a great beast, and the Burger Council</h3>
 
 ![Tara and Isabel resting their heads on each other, Pink Opaque ghost tattoos visible]({{site.baseurl}}/assets/images/tvGlow/headTouch.jpg)
 <div class="caption"><i>I Saw the TV Glow</i>, A24</div>
@@ -401,7 +428,7 @@ _“No, you dolt!”_ spat the purr, its voice cracking. _“Yesterday, we dined
 
 _“Today, we dined as a woman.”_
 
-## Next time on “The Pink Opaque”
+<h2 id="section10">Next time on “The Pink Opaque”</h2>
 
 ![Tara and Isabel sitting on a dock under a sunset]({{site.baseurl}}/assets/images/tvGlow/pinkOpaque.jpg)
 <div class="caption"><i>I Saw the TV Glow</i>, A24</div>
@@ -441,7 +468,7 @@ And yet, the future has never been brighter. I look forward to tomorrow—an exp
 <div class="fullwidth"><img src="{{site.baseurl}}/assets/images/tvGlow/thereIsStillTime.jpg" alt="'there is still time' written in chalk"></div>
 <div class="caption"><i>I Saw the TV Glow</i>, A24</div>
 
-## Addendum (because this post isn’t self-indulgent enough)
+<h2 id="section11">Addendum (because this post isn’t self-indulgent enough)</h2>
 
 This month marks one year of **catloaf & coffee**. A year ago, I began processing my Autism diagnosis through the writing I do here. My first post was actually just a private journal entry. I made some changes to accommodate its publication, but 90% of it remains as it was when I wrote it in my journal.
 
@@ -477,7 +504,7 @@ Sage 🌿
 ~~they/them (for now)~~ she/they  
 🏳️‍⚧️
 
-## Acknowledgments
+<h2 id="section12">Acknowledgments</h2>
 
 There’s a host of great resources out there for trans folk and those questioning, but it’s becoming increasingly difficult to find them. Below are some sites and creators that have helped me in my transition.
 
