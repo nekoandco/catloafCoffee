@@ -16,7 +16,7 @@ subtitle: "But in its purple-pink girlypop glow, I found myself."
       <a class="btn" data-bs-toggle="collapse" href="#collapseOne">📚 Table of Contents
       </a>
     </div>
-    <div id="collapseOne" class="collapse" data-bs-parent="#accordion">
+    <div id="collapseOne" class="collapse show" data-bs-parent="#accordion">
       <div class="card-body">
       	<ol type="i">
         	<li><a href="#section1">Previously on "The Pink Opaque"</a></li>
