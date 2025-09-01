@@ -6,12 +6,30 @@ subtitle: "This isn't how it was supposed to go."
 ---
 
 <div class="alert alert-primary" role="alert">ℹ️ There are numerous Japanese words used throughout this piece. English definitions are provided in the footnotes.</div>
+<div id="accordion">
+  <div class="card">
+    <div class="card-header">
+      <a class="btn" data-bs-toggle="collapse" href="#collapseOne">📚 Table of Contents
+      </a>
+    </div>
+    <div id="collapseOne" class="collapse" data-bs-parent="#accordion">
+      <div class="card-body">
+      	<ol type="i">
+        	<li><a href="#section1">The party</a></li>
+       		<li><a href="#section2">The ticket kiosk</a></li>
+       		<li><a href="#section3">The spectator</a></li>
+       		<li><a href="#section4">The cardboard monster</a></li>
+       	</ol>
+      </div>
+    </div>
+  </div>
+</div>
 <div class="sidebar">
 <h2>Author’s note</h2>
 I started writing this post intending to discuss why I came to Japan in the first place, in anticipation of deciding whether to stay here for another year. As I was exploring my reasons for moving abroad, I began to dive into how deficits have shaped my experiences here. I came to Japan with so many ideas of what I wanted it to be, but very few, if any, of those ideas have panned out, and it’s entirely because I am simply not able to break out of my routines easily. I just don’t have the capacity to do so. Most weeks, it feels like my routines are the only thing keeping everything together. As time continues to pass, I grow increasingly embarrassed at having “wasted” all this time abroad.<br><br>
 
 I had written a few thousand words on all of this, yet I felt like I was failing to articulate my struggle with deficits and how it feels to witness one’s capacity for doing things wither. Instead, I settled on the following. Below are various moments from my time in Japan, presented without further interruption.</div>
-## The party
+<h2 id="section1">The party</h2>
 
 ![people holding snifter glasses](https://images.unsplash.com/photo-1438557068880-c5f474830377?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 <div class="caption">Photo by <a href="https://unsplash.com/@yutacar">Yutacar</a> on <a href="https://unsplash.com/photos/people-holding-snifter-glasses-JKMnm3CIncw">Unsplash</a></div>
@@ -54,7 +72,7 @@ I pushed these thoughts aside, and in their absence another thought from earlier
 
 The following Monday, I plopped down at my desk. A coworker mentioned the nomikai and asked, “Are you glad you went?” I replied, “Of course! It was so fun!”
 
-## The ticket kiosk
+<h2 id="section2">The ticket kiosk</h2>
 
 ![train ticket vending machines](https://substack-post-media.s3.amazonaws.com/public/images/bb0d964e-acde-4451-98c5-bca43db3ebd9_1920x1280.jpeg)
 <div class="caption">Photo by <a href="https://unsplash.com/@christianchen">Christian Chen</a> on <a href="https://unsplash.com/photos/man-in-black-jacket-standing-near-green-and-white-wall-RtcyIy_dLPU">Unsplash</a></div>
@@ -79,7 +97,7 @@ I blinked. The attendant looked at me, clearly waiting for a response to a quest
 
 _Embarrassing._
 
-## The spectator
+<h2 id="section3">The spectator</h2>
 
 ![man wearing eyeglasses while looking out window](https://substack-post-media.s3.amazonaws.com/public/images/99330d5f-471e-4369-a13b-de439cc656f3_1920x1440.jpeg)
 <div class="caption">Photo by <a href="https://unsplash.com/@pereiramp">Marcelo Pereira</a> on <a href="https://unsplash.com/photos/woman-wearing-eyeglasses-while-looking-on-window-1quVfrNXDbA">Unsplash</a></div>
@@ -102,7 +120,7 @@ Soon, the magazine’s annual [Art Issue](https://connect.ajet.net/2024/06/10/co
 
 The magazine was for those living in Japan. I didn’t belong there.
 
-## The cardboard monster
+<h2 id="section4">The cardboard monster</h2>
 
 ![a stack of used cardboard](https://images.unsplash.com/photo-1640193698858-31565d448f90?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 <div class="caption">Photo by <a href="https://unsplash.com/@roberto_sorin">Roberto Sorin</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-stack-of-metal-bars-7Z1pgI77BoE">Unsplash</a></div>
