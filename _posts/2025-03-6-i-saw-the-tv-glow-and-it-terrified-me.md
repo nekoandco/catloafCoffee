@@ -19,16 +19,22 @@ subtitle: "But in its purple-pink girlypop glow, I found myself."
     <div id="collapseOne" class="collapse show" data-bs-parent="#accordion">
       <div class="card-body">
       	<ol type="i">
-        	<li><a href="#section1">Previously on "The Pink Opaque"</a></li>
+        	<li><a href="#section1">Previously on 'The Pink Opaque'</a></li>
        		<li><a href="#section2">Act One: Sucking down the Luna Juice</a></li>
-       		<li><a href="#section3">Righteous immorality</a></li>
-       		<li><a href="#section4">Some kids were stuffed in lockers, I was stuffed in a closet</a></li>
-       		<li><a href="#section5">Soft-boiled</a></li>
+       		     <ul>
+       		         <li><a href="#section3">Righteous immorality</a></li>
+       		         <li><a href="#section4">Some kids were stuffed in lockers, I was stuffed in a closet</a></li>
+       		         <li><a href="#section5">Soft-boiled</a></li>
+       		     </ul>
        		<li><a href="#section6">Act Two: Into the frying pan</a></li>
-       		<li><a href="#section7">The new morning groove</a></li>
-       		<li><a href="#section8">Act Three: Rebirth (New hemisphere, new me)</a></li>
-       		<li><a href="#section9">The magic potion, the slaying of a great beast, and the Burger Council</a></li>
-       		<li><a href="#section10">Next time on “The Pink Opaque”</a></li>
+       		     <ul>
+       		         <li><a href="#section7">The new morning groove</a></li>
+       		     </ul>
+       		<li><a href="#section8">Act Three: Rebirth</a></li>
+       		     <ul>
+       		         <li><a href="#section9">The magic potion, the slaying of a great beast, and the Burger Council</a></li>
+       		         <li><a href="#section10">Next time on 'The Pink Opaque'</a></li>
+       		     </ul>
        		<li><a href="#section11">Addendum (because this post isn’t self-indulgent enough)</a></li>
        		<li><a href="#section12">Acknowledgments</a></li>
        	</ol>
