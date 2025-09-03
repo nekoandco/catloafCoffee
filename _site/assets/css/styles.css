@@ -1610,7 +1610,7 @@ progress {
     --bs-gutter-y:3rem;
   }
 }
-.table, table {
+.table, .post table {
   --bs-table-bg:transparent;
   --bs-table-accent-bg:transparent;
   --bs-table-striped-color:#212529;
@@ -1626,22 +1626,22 @@ progress {
   border-color: #dee2e6;
 }
 
-.table > :not(caption) > * > *, table > :not(caption) > * > * {
+.table > :not(caption) > * > *, .post table > :not(caption) > * > * {
   padding: 0.5rem 0.5rem;
   background-color: var(--bs-table-bg);
   border-bottom-width: 1px;
   box-shadow: inset 0 0 0 9999px var(--bs-table-accent-bg);
 }
 
-.table > tbody, table > tbody {
+.table > tbody, .post table > tbody {
   vertical-align: inherit;
 }
 
-.table > thead, table > thead {
+.table > thead, .post table > thead {
   vertical-align: bottom;
 }
 
-.table > :not(:last-child) > :last-child > *, table > :not(:last-child) > :last-child > * {
+.table > :not(:last-child) > :last-child > *, .post table > :not(:last-child) > :last-child > * {
   border-bottom-color: currentColor;
 }
 
@@ -1665,7 +1665,7 @@ progress {
   border-bottom-width: 0;
 }
 
-.table-striped > tbody > tr:nth-of-type(odd), table > tbody > tr:nth-of-type(odd) {
+.table-striped > tbody > tr:nth-of-type(odd), .post table > tbody > tr:nth-of-type(odd) {
   --bs-table-accent-bg:var(--bs-table-striped-bg);
   color: var(--bs-table-striped-color);
 }
@@ -10146,7 +10146,7 @@ textarea.form-control-lg {
   .figure-caption {
     color: #9e9e9e;
   }
-  .table, table {
+  .table, .post table {
     --bs-table-bg:transparent;
     --bs-table-accent-bg:transparent;
     --bs-table-striped-color:#e1e1e1;
@@ -12067,6 +12067,8 @@ textarea.form-control-lg {
   color: #a6e22e;
 }
 
+.post table { /* default as without class */ }
+
 blockquote {
   border-left: 5px solid #ffbcd9;
   font-style: italic;
@@ -12334,6 +12336,7 @@ pre.highlight {
   margin-right: 0.25rem !important;
 }
 
+/* for use in about.html */
 .truncate-lines-fadeout { /* credit to https://www.roboleary.net/snippets/truncated-text-multiple-lines-fadeout/ */
   --num-of-lines: 1;
   overflow: hidden;

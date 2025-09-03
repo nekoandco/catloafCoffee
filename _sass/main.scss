@@ -1,4 +1,4 @@
-table {
+.post table { /* default as without class */
   @extend .table;
   @extend .table-striped;
 }
@@ -279,6 +279,9 @@ pre.highlight {
 .dark-avatar {
   margin-right: 0.25rem !important;
 }
+
+/* for use in about.html */
+
 
 .truncate-lines-fadeout { /* credit to https://www.roboleary.net/snippets/truncated-text-multiple-lines-fadeout/ */
   --num-of-lines: 1;

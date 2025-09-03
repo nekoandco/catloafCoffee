@@ -1,0 +1,98 @@
+---
+---
+
+#letter {
+	margin-top: -500px;
+}
+
+.cosmos {
+	background: black url(../images/about/stars_animatedBG.gif) repeat; /* bg by artBIT on deviantART */
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+	position: relative;
+  	left: 50%;
+  	right: 50%;
+  	margin-top: -100px;
+  	margin-left: -50vw;
+  	margin-right: -50vw;
+  	max-height: 100%;
+  	max-width: 100vw;
+  	width: 100vw;
+  	padding-top: 350px;
+  	padding-bottom: 1000px;
+  	padding-left: 10px;
+  	padding-right: 10px;
+ 	mask-image: linear-gradient(180deg,black 94%,transparent 100%);
+ 	-webkit-mask-image: linear-gradient(180deg,black 94%,transparent 100%);
+}
+
+.cosmos img {
+	width: 100px;
+	height: 100px;
+	display: inline;
+}
+
+.cosmos table {
+	max-width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.cosmos tr:nth-child(odd) {
+	color: #fcf8a4;
+	font-family: "Schoolbell", "Comic Sans MS", sans-serif;
+	text-transform: lowercase;
+	vertical-align: top;
+}
+
+.cosmos tr:nth-child(even) {
+	color: #a4edfc;
+	font-family: "Markazi Text", "Times New Roman", serif;
+	font-weight: bold;
+	font-size: 90%;
+	vertical-align: top;
+}
+
+.cosmos th, td {
+  padding-top: 10px;
+}
+
+.screenplay {
+	text-align: justify;
+	font-size: 1.2em;
+	line-height: 2.0;
+	/* margin: 20%; */
+}
+
+.traveler {
+	color: #fcf8a4;
+	font-family: "Schoolbell", "Comic Sans MS", sans-serif;
+	text-transform: lowercase;
+}
+
+.conciousness {
+	color: #a4edfc;
+	font-family: "Markazi Text", "Times New Roman", serif;
+	font-weight: bold;
+	font-size: 90%;
+}
+
+.rainbowTextLoop {
+	/* code from UnusedCSS https://unused-css.com/blog/css-rainbow-text/ */
+  display: inline-block;
+  -webkit-animation: rainbow 2.5s infinite;
+}
+
+@-webkit-keyframes rainbow{
+  0%{color: orange;}  
+  10%{color: purple;} 
+  20%{color: red;}
+  30%{color: CadetBlue;}
+  40%{color: yellow;}
+  50%{color: coral;}
+  60%{color: green;}
+  70%{color: cyan;}
+  80%{color: DeepPink;}
+  90%{color: DodgerBlue;}
+  100%{color: orange;}
+}
