@@ -47,11 +47,6 @@
 	z-index: 1;
 }
 
-.cosmos:after {
-	mask-image: linear-gradient(180deg,black 94.7%,transparent 100%);
- 	-webkit-mask-image: linear-gradient(180deg,black 94.7%,transparent 100%);
-}
-
 .cosmos img {
 	width: 100px;
 	height: 100px;
@@ -64,28 +59,32 @@
 	margin-right: auto;
 }
 
-.cosmos tr:nth-child(odd) {
-	color: #fcf8a4;
-	font-family: "Schoolbell", "Comic Sans MS", sans-serif;
-	text-transform: lowercase;
+.cosmos tr {
 	vertical-align: top;
+}
+
+.cosmos tr:nth-child(odd) {
+	@extend .traveler;
 }
 
 .cosmos tr:nth-child(even) {
-	color: #a4edfc;
-	font-family: "Markazi Text", "Times New Roman", serif;
-	font-weight: bold;
-	vertical-align: top;
+	@extend .conciousness;
+}
+
+.cosmos td:nth-child(even) {
+	padding-top: 40px; 
 }
 
 .cosmos th, td {
-  padding-top: 10px;
+  padding-top: 25px; /* spacing between rows */
 }
 
 .screenplay {
 	text-align: justify;
-	font-size: 1.3em;
-	line-height: 2.0;
+	text-justify: auto;
+    hyphens: auto;
+	font-size: 1.4rem;
+	line-height: 1.5;
 	/* margin: 20%; */
 }
 
@@ -98,7 +97,31 @@
 .conciousness {
 	color: #a4edfc;
 	font-family: "Markazi Text", "Times New Roman", serif;
+	text-transform: none;
 	font-weight: bold;
+	font-size: 1.1em;
+	
+}
+
+.bully {
+	color: red;
+	font-family: "Jolly Lodger", sans-serif;
+	text-transform: lowercase;
+	font-size: 1.2em;
+}
+
+.system {
+	color: white;
+	font-family: "Roboto", sans-serif;
+	text-transform: none;
+	font-size: 0.8em;
+}
+
+.cat {
+	color: pink;
+	font-family: "Rubik Puddles", sans-serif;
+	text-transform: lowercase;
+	font-size: 1.3em;
 }
 
 .rainbowTextLoop {

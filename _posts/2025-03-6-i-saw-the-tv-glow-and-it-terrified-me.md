@@ -10,13 +10,10 @@ subtitle: "But in its purple-pink girlypop glow, I found myself."
 <div class="alert alert-danger" role="alert">⚠️ strong language, anti-LGBTQ+ rhetoric</div>
 <div class="alert alert-secondary" role="alert">👀 Vague spoilers for <i>I Saw the TV Glow</i>.</div>
 <div class="alert alert-primary" role="alert">ℹ️ This is technically an addition to <a href="{% post_url 2025-01-09-so-long-2024-a-media-retrospective %}">January’s post</a>. However, this piece stands on its own. Read the prior post first… or don’t!</div>
-<div id="accordion">
   <div class="card">
     <div class="card-header">
-      <a class="btn" data-bs-toggle="collapse" href="#collapseOne">📚 Table of Contents
-      </a>
+      📚 Table of Contents
     </div>
-    <div id="collapseOne" class="collapse show" data-bs-parent="#accordion">
       <div class="card-body">
       	<ol type="i">
         	<li><a href="#section1">Previously on 'The Pink Opaque'</a></li>
@@ -40,8 +37,6 @@ subtitle: "But in its purple-pink girlypop glow, I found myself."
        	</ol>
       </div>
     </div>
-  </div>
-</div>
 <br>
 <h2 id="section1">Previously on “The Pink Opaque”</h2>
 

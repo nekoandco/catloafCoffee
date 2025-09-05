@@ -6,13 +6,10 @@ subtitle: "A happy post? On catloaf & coffee?!"
 ---
 
 ![3x3 grid of various media]({{site.baseurl}}/assets/images/2024retrospective/header.png)
-<div id="accordion">
   <div class="card">
     <div class="card-header">
-      <a class="btn" data-bs-toggle="collapse" href="#collapseOne">📚 Table of Contents
-      </a>
+      📚 Table of Contents
     </div>
-    <div id="collapseOne" class="collapse show" data-bs-parent="#accordion">
       <div class="card-body">
       	<ol type="i">
         	<li><a href="#section1">Music</a></li>
@@ -36,8 +33,6 @@ subtitle: "A happy post? On catloaf & coffee?!"
        	</ol>
       </div>
     </div>
-  </div>
-</div>
 <br>
 
 Here we are, at the start of the new year. 2024 was a hell of year for me: It began with an Autism diagnosis and ended with… well, I’ll get to that later. I still have a long, long way to go, but I’m pleased with how far I’ve come in a relatively short time. If I think about where I was last January and compare that to now, well… I’m in the exact same place, actually—still in Japan. But _mentally_? Night and day.

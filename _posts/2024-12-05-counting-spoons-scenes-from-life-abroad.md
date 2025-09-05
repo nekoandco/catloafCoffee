@@ -6,13 +6,10 @@ subtitle: "This isn't how it was supposed to go."
 ---
 
 <div class="alert alert-primary" role="alert">ℹ️ There are numerous Japanese words used throughout this piece. English definitions are provided in the footnotes.</div>
-<div id="accordion">
   <div class="card">
     <div class="card-header">
-      <a class="btn" data-bs-toggle="collapse" href="#collapseOne">📚 Table of Contents
-      </a>
+      📚 Table of Contents
     </div>
-    <div id="collapseOne" class="collapse show" data-bs-parent="#accordion">
       <div class="card-body">
       	<ol type="i">
         	<li><a href="#section1">The party</a></li>
@@ -22,8 +19,6 @@ subtitle: "This isn't how it was supposed to go."
        	</ol>
       </div>
     </div>
-  </div>
-</div>
 <div class="sidebar">
 <h2>Author’s note</h2>
 I started writing this post intending to discuss why I came to Japan in the first place, in anticipation of deciding whether to stay here for another year. As I was exploring my reasons for moving abroad, I began to dive into how deficits have shaped my experiences here. I came to Japan with so many ideas of what I wanted it to be, but very few, if any, of those ideas have panned out, and it’s entirely because I am simply not able to break out of my routines easily. I just don’t have the capacity to do so. Most weeks, it feels like my routines are the only thing keeping everything together. As time continues to pass, I grow increasingly embarrassed at having “wasted” all this time abroad.<br><br>
