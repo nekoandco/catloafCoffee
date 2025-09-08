@@ -299,8 +299,6 @@ pre.highlight {
   margin-right: 0.25rem !important;
 }
 
-/* for use in about.html */
-
 
 .truncate-lines-fadeout { /* credit to https://www.roboleary.net/snippets/truncated-text-multiple-lines-fadeout/ */
   --num-of-lines: 1;
@@ -343,7 +341,7 @@ pre.highlight {
   }
   
   .sidebar {
-  background: #333333;
+  background: #292929;
   }
   
   .footer-icon-links {
@@ -358,8 +356,8 @@ pre.highlight {
   } */
   
   .post {
-    background-color: #1e1e1e;
-    background-image: none;
+	background-color: #1e1e1e;
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23333333' fill-opacity='0.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
     border: 2px solid #3c3c3c;
   }
   
