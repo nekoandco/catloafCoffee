@@ -2,17 +2,18 @@
 layout: default
 ---
 
-<!-- Element to contain animated typing -->
-<span id="element"></span>
 <!-- Load library from the CDN -->
 <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
-<!-- Setup and start animation! -->
-<script>
-    var typed = new Typed('#element', {
-        strings: ['<i>First</i> sentence.', '&amp; a second sentence.'],
-        typeSpeed: 50,
-    });
-</script>
+<!-- Load taglines from assets -->
+<script src="{{site.baseurl}}/assets/js/taglines.js"></script>
+<!-- Element to contain animated typing -->
+<!-- <span id="element"><script>document.write(r)</script></span> -->
+<!-- call animation from taglines.js -->
+<!-- <script>typed</script> -->
+<div id="typed-strings">
+    <script>document.write(r)</script>
+</div>
+<span id="typed"></span>
 
 <div class="archive">
   {% for post in site.posts offset:1 %} 
