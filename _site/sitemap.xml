@@ -112,16 +112,13 @@
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/about/</loc>
+<loc>http://localhost:4000/tags/featured/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tags/autism/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/featured/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tags/trans/</loc>

@@ -3,8 +3,9 @@ layout: post
 tags:
 title: "Trans Resources"
 ---
-
-<div class="card">
+![trans flag]({{site.baseurl}}/assets/images/loose/transFlag.svg)
+<div class="caption"><i>Did you know?</i> The trans flag seen above was created in 1999 by <a href="https://en.wikipedia.org/wiki/Monica_Helms">Monica Helms</a>.</div>
+<!-- <div class="card">
 	<div class="card-header">📚 Table of Contents</div>
 	<div class="card-body">
 		<ol type="i">
@@ -12,31 +13,33 @@ title: "Trans Resources"
 		</ol>
 	</div>
 </div>
-
-##HRT
-* A Practical Guide to Feminizing HRT
+<br> -->
+## HRT
+* [A Practical Guide to Feminizing HRT](https://pghrt.diy/)
 * DIY HRT: Everything I Can Legally Tell You
-* HRT Cafe
-* If you're in Japan and are looking for HRT, email me.
+* [HRT Cafe](https://hrtcafe.net/)
+* [Erin's Informed Consent HRT Map](https://www.google.com/maps/d/u/0/viewer?mid=1DxyOTw8dI8n96BHFF2JVUMK7bXsRKtzA&hl=en_US&ll=37.8803431320255%2C-81.74642342305575&z=4)
+* If you live in Japan and are looking for HRT, email me.
+	* *My email can be found in the site's footer.*
 
-##Voice Training
+## Voice training
 * Seattle Voice Lab
-* Renée Yoxon
+* [Renée Yoxon](https://www.reneeyoxon.com/)
 
-##Creators
+## Creators and communities
 * ICKY
 * Lila
 * Devon Price
 
-##Experiential Resources
-* The Gender Dysphoria Bible
+## References
+* [The Gender Dysphoria Bible](https://genderdysphoria.fyi/)
 * Trans Bodies, Trans Selves
 
-##Fiction
+## Fiction
 * Nevada
 * Detransition, Baby
 
-##News
+## News
 * Erin in the Morning
 * Trans News Network (formerly MadyCast News)
 * Uncloseted Media

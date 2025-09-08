@@ -4,6 +4,5 @@ light mode
 	CONTENT_text (brown): #5d3737
 
 dark mode
-	MAIN_background (sakura): #ffecec
-	SECONDARY_highlight (pink): #ffbcd9
-	CONTENT_text (brown): #5d3737
+	MAIN_background (dark gray): #1e1e1e
+	CONTENT_text (white): #e1e1e1

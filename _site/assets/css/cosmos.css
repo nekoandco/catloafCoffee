@@ -12,6 +12,14 @@
 }
 
 #letter {
+  font-family: "Georgia", serif;
+  font-size: 1.2em;
+  text-align: justify;
+  text-justify: auto;
+  hyphens: auto;
+  margin: auto;
+  max-width: 800px;
+  padding: 3%;
   position: relative;
   z-index: 100;
   margin-top: -650px;
