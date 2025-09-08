@@ -10,13 +10,10 @@ subtitle: "But in its purple-pink girlypop glow, I found myself."
 <div class="alert alert-danger" role="alert">⚠️ strong language, anti-LGBTQ+ rhetoric</div>
 <div class="alert alert-secondary" role="alert">👀 Vague spoilers for <i>I Saw the TV Glow</i>.</div>
 <div class="alert alert-primary" role="alert">ℹ️ This is technically an addition to <a href="{% post_url 2025-01-09-so-long-2024-a-media-retrospective %}">January’s post</a>. However, this piece stands on its own. Read the prior post first… or don’t!</div>
-<div id="accordion">
   <div class="card">
     <div class="card-header">
-      <a class="btn" data-bs-toggle="collapse" href="#collapseOne">📚 Table of Contents
-      </a>
+      📚 Table of Contents
     </div>
-    <div id="collapseOne" class="collapse show" data-bs-parent="#accordion">
       <div class="card-body">
       	<ol type="i">
         	<li><a href="#section1">Previously on 'The Pink Opaque'</a></li>
@@ -40,8 +37,6 @@ subtitle: "But in its purple-pink girlypop glow, I found myself."
        	</ol>
       </div>
     </div>
-  </div>
-</div>
 <br>
 <h2 id="section1">Previously on “The Pink Opaque”</h2>
 
@@ -490,7 +485,7 @@ Maybe it’ll make for a decent blog post, at least.
 
 To date, this post has been the hardest piece for me to write. Not only is it the longest post on **catloaf & coffee** by a significant margin, but it has also taken the longest amount of time to write. I began this piece back in November and planned for its release in December… which became January… which became February… which became March. Originally, I thought I would include this at the end of January’s post because I was apprehensive at the idea of having a standalone “coming out” post. I thought if I were to hide these words at the bottom of a silly post about music, games, and film, it would be “safe.”
 
-Obviously, that didn’t happen because that would’ve been stupid. This thing only works if I’m honest with myself, and by extension, this blog. While on this site I may simply be a name paired with a set of pronouns and a cat emoji, in meat-space the reality is this: I’ve started estrogen. It’s still early days, but in time its changes _will_ become more and more apparent. If I wanted to hide my trans identity, I’m making all the wrong choices.
+Obviously, that didn’t happen because that would’ve been stupid. This thing only works if I’m honest with myself, and by extension, this blog. While on this site I may simply be a name paired with a set of pronouns, in meat-space the reality is this: I’ve started estrogen. It’s still early days, but in time its changes _will_ become more and more apparent. If I wanted to hide my trans identity, I’m making all the wrong choices.
 
 While I know there’s nothing wrong with being trans, there is still a part of me that feels _weird_ about it. I feel like I’m doing something bad; like at any moment someone is going to burst through the doors and hand me a slip of paper summoning me to the principal’s office. Maybe they’ll call home to my parents! Or maybe I’ll be pulled aside at youth group on Wednesday.
 
