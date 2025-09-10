@@ -3,7 +3,9 @@ layout: default
 ---
 <div class="alert alert-warning" role="alert">heyy:) this site is functional, but i'm still working on getting everything just right before it's officially ready! 💖</div>
 <script src="{{site.baseurl}}/assets/js/taglines.js"></script>
-<div class="taglinesField"><div class="taglines fadeIn"><script>document.write(r)</script></div></div>
+
+<div class="taglines fadeIn"><script>document.write(r)</script></div>
+
 <div class="hero">
 {% for post in site.posts limit:1 %}
   <a href="{{ post.url | relative_url }}" class="archive-title fs-4">
