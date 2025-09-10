@@ -1,7 +1,7 @@
 ---
-layout: post
-tags:
+layout: resourcelist
 title: "Trans resources"
+updated: 2025.09.08
 ---
 ![trans flag]({{site.baseurl}}/assets/images/loose/transFlag.svg)
 <div class="caption"><i>Did you know?</i> The trans flag seen above was created in 1999 by <a href="https://en.wikipedia.org/wiki/Monica_Helms">Monica Helms</a>.</div>
