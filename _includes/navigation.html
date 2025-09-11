@@ -3,24 +3,23 @@
     <a class="navbar-brand p-0" href="{{ '/' | relative_url }}">
         {% if site.lightavatar or site.darkavatar %}
         <!-- light mode logos -->
-        <img src="{{ site.lightavatar | relative_url }}" alt="light avatar" width="50" class="d-inline-block align-top m-0 light-avatar">
-        <!-- <img src="{{ site.lighttitle | relative_url }}" alt="light avatar" width="250" class="d-inline-block align-bottom m-0 light-avatar"> -->
+        <img src="{{ site.lightavatar | relative_url }}" alt="light avatar" width="40" class="d-inline-block align-top m-0 light-avatar">
+        <img src="{{ site.lighttitle | relative_url }}" alt="light avatar" width="220" class="d-inline-block align-bottom m-0 light-avatar">
         <!-- dark mode logos -->
-        <img src="{{ site.darkavatar | relative_url }}" alt="dark avatar" width="50" class="d-inline-block align-top m-0 dark-avatar">
-        <!-- <img src="{{ site.darktitle | relative_url }}" alt="dark avatar" class="d-inline-block align-top m-0 dark-avatar"> -->
+        <img src="{{ site.darkavatar | relative_url }}" alt="dark avatar" width="40" class="d-inline-block align-top m-0 dark-avatar">
+        <img src="{{ site.darktitle | relative_url }}" alt="dark avatar" width="220" class="d-inline-block align-bottom m-0 dark-avatar">
     </a>
     {% endif %}
-    <!-- <div class="titlefont">{{ site.name }}</div></a> -->
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
-	<a class="navbar-brand p-0" href="{{ '/' | relative_url }}">
+	<!-- <a class="navbar-brand p-0" href="{{ '/' | relative_url }}">
       {% if site.lightavatar or site.darkavatar %}
         <img src="{{ site.lighttitle | relative_url }}" alt="light avatar" width="250" class="d-inline-block align-bottom m-0 light-avatar">
         <img src="{{ site.darktitle | relative_url }}" alt="dark avatar" width="250" class="d-inline-block align-bottom m-0 dark-avatar">
       {% endif %}
-	  </a>
+	  </a> -->
       <ul class="navbar-nav me-auto">
         {% for item in site.data.navigation %}
           <li class="nav-item">
