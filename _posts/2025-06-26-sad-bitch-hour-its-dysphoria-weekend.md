@@ -3,7 +3,7 @@ layout: post
 tags: trans featured
 title: "Sad Bitch Hour: It's Dysphoria Weekend™"
 subtitle: "Babe, pass me the Smylex. I'm about to fucking lose it."
-heroImage: catloafcoffee.com/assets/images/sadBitchHour/sadBitchHourHeader.png
+heroImage: https://catloafcoffee.com/assets/images/sadBitchHour/sadBitchHourHeader.png
 ---
 
 ![rainy, happy devil, and lipstick emojis]({{site.baseurl}}/assets/images/sadBitchHour/sadBitchHourHeader.png)

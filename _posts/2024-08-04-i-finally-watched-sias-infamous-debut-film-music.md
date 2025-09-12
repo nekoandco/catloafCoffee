@@ -3,7 +3,7 @@ layout: post
 tags: autism
 title: "I finally watched Sia's infamous debut film, Music."
 subtitle: "Here's what I think..."
-heroImage: catloafcoffee.com/assets/images/loose/musicPoster.jpg
+heroImage: https://catloafcoffee.com/assets/images/loose/musicPoster.jpg
 ---
 
 ![movie poster for Music]({{site.baseurl}}/assets/images/loose/musicPoster.jpg)
