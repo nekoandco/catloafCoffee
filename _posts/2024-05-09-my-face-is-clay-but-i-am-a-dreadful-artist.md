@@ -3,6 +3,7 @@ layout: post
 tags: autism
 title: "My face is clay, but I am a dreadful artist."
 subtitle: "I promise I don’t hate you. I promise I’m not as miserable as I look. It’s just my face. I can’t help it."
+heroImage: https://images.unsplash.com/photo-1656844594283-f6eafc05b6d8?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 “When I first met you I thought you were an incel.”

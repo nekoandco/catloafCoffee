@@ -3,6 +3,7 @@ layout: post
 tags: autism
 title: "It was a blue Christmas with you."
 subtitle: "Musings on the challenges of the holidays, yearning to be understood, and letting go."
+heroImage: https://images.unsplash.com/photo-1461010083959-8a5727311252?q=80&w=2024&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 ![red coffee latte on white ceramic mug](https://images.unsplash.com/photo-1461010083959-8a5727311252?q=80&w=2024&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)

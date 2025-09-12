@@ -3,6 +3,7 @@ layout: post
 tags: trans featured
 title: "I Saw the TV Glow and it terrified me."
 subtitle: "But in its purple-pink girlypop glow, I found myself."
+heroImage: catloafcoffee.com/assets/images/tvGlow/hero.jpg
 ---
 
 <div class="fullwidth"><img src="{{site.baseurl}}/assets/images/tvGlow/hero.jpg" alt="Owen looks at Maddy, who is crying"></div>

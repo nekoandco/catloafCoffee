@@ -3,9 +3,10 @@ layout: post
 tags: trans
 title: "Baptize me in that purple-pink girlypop glow."
 subtitle: "No, I will never shut up about this film."
+heroImage: https://catloafcoffee.com/assets/images/tvGlow/planetariumWide.jpg
 ---
 
-![Maddy in planetarium]({{site.baseurl}}/assets/images/tvGlow/planetariumWide.jpg)
+![Maddy in planetarium]({{ "/assets/images/tvGlow/planetariumWide.jpg" | absolute_url }})
 <div class="caption"><i>I Saw the TV Glow</i>, A24</div>
 
 <div class="alert alert-secondary" role="alert">👀 Vague spoilers for <i>I Saw the TV Glow</i>.</div>

@@ -8,7 +8,7 @@ layout: default
 <div class="hero">
 {% for post in site.posts limit:1 %}
   <a href="{{ post.url | relative_url }}" class="archive-title fs-4">
-    {{ post.heroImage }}
+    <img src="{{ post.heroImage }}">
   </a>
   <a href="{{ post.url | relative_url }}" class="archive-title fs-4">
     <div class="hero-title">{{ post.title }}</div>
