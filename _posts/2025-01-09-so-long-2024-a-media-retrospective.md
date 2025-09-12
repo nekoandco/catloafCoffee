@@ -3,6 +3,7 @@ layout: post
 tags: featured
 title: "So long, 2024: a media retrospective."
 subtitle: "A happy post? On catloaf & coffee?!"
+heroImage: catloafcoffee.com/assets/images/2024retrospective/header.png
 ---
 
 ![3x3 grid of various media]({{site.baseurl}}/assets/images/2024retrospective/header.png)
@@ -45,7 +46,7 @@ I never intend for my writing to lead down such dark paths! Indeed, the name of 
 
 Well, writing is the way I am able to figure out what I am actually feeling, and unfortunately what I’ve found over the past year is that I hold a lot more pain, disappointment, and anger than I realized. This certainly isn’t what I was hoping to find, but it is the reality regardless.
 
-Hey, there’s going to be plenty of time to continue digging up my emotions. And, _oh boy!_, will there be emotions—I’m _really_ not looking forward to this year for _[totally no reason in particular, ha ha!](https://catloafcoffee.substack.com/p/november-7-the-day-after-the-2024)_ For now, let’s take a breather. Today, allow me to indulge in my special interests.
+Hey, there’s going to be plenty of time to continue digging up my emotions. And, _oh boy!_, will there be emotions—I’m _really_ not looking forward to this year for _[totally no reason in particular, ha ha!]({% post_url 2024-11-07-november-7-the-day-after-the-2024-american-election-in-japan %})_ For now, let’s take a breather. Today, allow me to indulge in my special interests.
 
 Each year, I look back on the year through the media I consume. Admittedly, as a rather reclusive individual, media is sometimes the primary way in which I’m able to experience the world—this has perhaps never been more true than in 2024—so I find it interesting to look at the parallels between my personal life and the music I chose to listen to, games I chose to play, and the films I chose to watch. Below are my top three picks from each medium, along with some prose explaining their significance.
 

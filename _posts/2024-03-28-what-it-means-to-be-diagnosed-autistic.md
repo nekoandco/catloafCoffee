@@ -3,6 +3,7 @@ layout: post
 tags: autism
 title: "What it means to be diagnosed Autistic."
 subtitle: "The practical uses of an Autism diagnosis are perhaps questionable, but the personal validation it offers should not be understated."
+heroImage: https://images.unsplash.com/photo-1555231955-348aa2312e19?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 ![pink cherry blossom flowers at bloom](https://images.unsplash.com/photo-1555231955-348aa2312e19?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)

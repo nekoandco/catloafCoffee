@@ -3,6 +3,7 @@ layout: post-poetry
 tags: poetry trans
 title: "The mountains are beautiful this time of year."
 subtitle: "They've always been beautiful, truthfully."
+heroImage: catloafcoffee.com/assets/images/loose/mountains.jpg
 ---
 
 ![a grassy field with mountains in the background]({{site.baseurl}}/assets/images/loose/mountains.jpg)

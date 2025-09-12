@@ -3,7 +3,7 @@ layout: post-poetry
 tags: poetry
 title: "Salem // Pyromania"
 subtitle: "Deny me and be doomed."
-heroImage: <img src="https://images.unsplash.com/photo-1598325836800-d7e85d803fad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxNHx8Ymxvb2QlMjBtb29ufGVufDB8fHx8MTc1NDM2NzU5NHww&ixlib=rb-4.1.0&q=80&w=1080">
+heroImage: https://images.unsplash.com/photo-1598325836800-d7e85d803fad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxNHx8Ymxvb2QlMjBtb29ufGVufDB8fHx8MTc1NDM2NzU5NHww&ixlib=rb-4.1.0&q=80&w=1080
 published: true
 ---
 

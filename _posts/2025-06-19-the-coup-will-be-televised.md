@@ -3,6 +3,7 @@ layout: post-poetry
 tags: poetry
 title: "The coup will be televised."
 subtitle: "And they'll eat it up."
+heroImage: https://images.unsplash.com/photo-1557992260-ec58e38d363c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyfHxuZXdzJTIwZmlyZXxlbnwwfHx8fDE3NDk3ODU5NzF8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 ![man sitting on chair holding newspaper on fire](https://images.unsplash.com/photo-1557992260-ec58e38d363c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyfHxuZXdzJTIwZmlyZXxlbnwwfHx8fDE3NDk3ODU5NzF8MA&ixlib=rb-4.1.0&q=80&w=1080)
