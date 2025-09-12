@@ -1,6 +1,7 @@
 ---
 layout: resourcelist
 title: "Trans resources"
+subtitle: "Everything I've found useful. A work in progress."
 updated: 2025.09.08
 heroImage: https://catloafcoffee.com/assets/images/loose/transFlag.svg
 ---
@@ -15,7 +16,7 @@ heroImage: https://catloafcoffee.com/assets/images/loose/transFlag.svg
 	</div>
 </div>
 <br> -->
-<div class="alert alert-primary" role="alert">ℹ️ This page is a work-in-progress and will be continuously updated.</div>
+<div class="alert alert-primary" role="alert">ℹ️ This page will be continuously updated.</div>
 ## 💉 HRT
 * [A Practical Guide to Feminizing HRT](https://pghrt.diy/)
 * [DIY HRT: Everything I Can Legally Tell You](https://youtu.be/o2Ggwe2j0Gc)
