@@ -2,11 +2,11 @@
 layout: resourcelist
 title: "Trans resources"
 subtitle: "Everything I've found useful. A work in progress."
-updated: 2025.09.08
+updated: 2025.09.24
 heroImage: https://catloafcoffee.com/assets/images/loose/transFlag.svg
 ---
 ![trans flag]({{site.baseurl}}/assets/images/loose/transFlag.svg)
-<div class="caption"><i>Did you know?</i> The trans flag seen above was created in 1999 by <a href="https://en.wikipedia.org/wiki/Monica_Helms">Monica Helms</a>.</div>
+<div class="caption">The trans flag seen above was created in 1999 by <a href="https://en.wikipedia.org/wiki/Monica_Helms">Monica Helms</a>.</div>
 <!-- <div class="card">
 	<div class="card-header">📚 Table of Contents</div>
 	<div class="card-body">
@@ -37,13 +37,18 @@ heroImage: https://catloafcoffee.com/assets/images/loose/transFlag.svg
 ## 📕 Books and more
 ### References
 * [The Gender Dysphoria Bible](https://genderdysphoria.fyi/)
-* [Trans Bodies, Trans Selves](http://transbodies.com/)
+* [*Trans Bodies, Trans Selves*](http://transbodies.com/)
+	* Various authors, 2021 (second edition)
 
 ### Fiction
-* Nevada
+* [*Nevada*](https://en.wikipedia.org/wiki/Nevada_(Binnie_novel))
 	* Imogen Binnie, 2013
-* [Detransition, Baby](https://www.torreypeters.com/book/detransition-baby/)
+* [*Detransition, Baby*](https://www.torreypeters.com/book/detransition-baby/)
 	* Torrey Peters, 2021
+* *Otros Valles*
+	* Jamie Berrout, 2014
+	* If you're having trouble finding a copy, email me.
+		* *My email can be found in the site's footer.*
 
 ## 📰 News
 * [Erin in the Morning](https://www.erininthemorning.com/)

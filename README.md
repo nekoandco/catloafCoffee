@@ -1,4 +1,7 @@
 # catloaf & coffee
-An Autistic blog about being trans and stuff. Migrating from Substack.
+A blog about being Autistic and trans by Sage. Always bright and cheery and totally not political at all. *Trust me*. :)
 
-Based off Andrew Park's brutalist-blog Jekyll theme: https://github.com/andrewhwanpark/brutalist-blog
+Built with Jekyll (starting with Andrew Park's brutalist-blog theme) and my own HTML/CSS learnings. Code's a bit of mess probably, but *it works goddamnit*.
+
+🏳️‍⚧️ **trans rights are human rights** 🏳️‍⚧️
+🩵🩷🤍🩷🩵

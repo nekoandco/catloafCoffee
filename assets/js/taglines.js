@@ -3,7 +3,7 @@ const taglines = [
 	"Jesus wept.",
 	"still cis tho",
 	"gayyy",
-	`Many people think a trans woman's deepest desire is to live in her true gender, but actually it is to always stand in good lighting. <div class="taglinesSource">Detransition, Baby (2021)</div>`,
+	`Many people think a trans woman's deepest desire is to live in her true gender, but actually it is to always stand in good lighting. <div class="taglinesSource">Detransition, Baby (Torrey Peters)</div>`,
 	`I know it's scary. That's part of it. <div class="taglinesSource">I Saw the TV Glow (2024)</div>`,
 	"autistic af",
 	"imagine being cis het lmfao",
@@ -44,7 +44,7 @@ const taglines = [
 	"Holy booba, Batman!",
 	`I'm gonna kill you, if you don't beat me to it. <div class="taglinesSource">Phoebe Bridgers</div>`,
 	`I paint the ceiling black, so I don't notice when my eyes are open. <div class="taglinesSource">Sloppy Jane</div>`,
-	`I'm sorry you've been in so much pain for so long. <div class="taglinesSource">Detransition, Baby (2021)</div>`,
+	`I'm sorry you've been in so much pain for so long. <div class="taglinesSource">Detransition, Baby (Torrey Peters)</div>`,
 	"We promise ourselves the world because the world told us we deserve nothing.",
 	`We ain't angry at you, love. You're the greatest thing we've lost. <div class="taglinesSource">Noah Kahan</div>`,
 	`I'll dream each night of some version of you that I might not have, but I did not lose. <div class="taglinesSource">Noah Kahan</div>`,
@@ -76,7 +76,7 @@ const taglines = [
 	"commit to the bit",
 	`It's me. Hi, I'm the problem. It's me. <div class="taglinesSource">Taylor Swift</div>`,
 	"um ok",
-	`The first year of transition, Amy discovered, was about learning how much you've lied to yourself. <div class="taglinesSource">Detransition, Baby (2021)</div>`,
+	`The first year of transition, Amy discovered, was about learning how much you've lied to yourself. <div class="taglinesSource">Detransition, Baby (Torrey Peters)</div>`,
 	`"You'll pay for this!" she shouted, then wrote a strongly-worded blog post.`,
 	`Donald J. Trump is a pedophile.* <div class="taglinesSource">*allegedly</div>`,
 	`I read a different definition of what love is. I wish somebody told me what it wasn't. <div class="taglinesSource">Rosie Darling</div>`,
@@ -107,7 +107,9 @@ const taglines = [
 	`Oh, I like your outfit, too! Except when I dress up as a frigid bitch, I try not to look so constipated. <div class="taglinesSource">Legally Blonde (2001)</div>`,
 	`Hi. I'm Elle Woods and this is Bruiser Woods. We're both Gemini vegetarians. <div class="taglinesSource">Legally Blonde (2001)</div>`,
 	`Oh my God, Karen, you can't just ask people why they're white! <div class="taglinesSource">Mean Girls (2004)</div>`,
-	`People keep asking if I'm back, and I haven't really had an answer. But now, yeah, I'm thinkin' I'm back. <div class="taglinesSource">John Wick (2014)</div>`
+	`People keep asking if I'm back, and I haven't really had an answer. But now, yeah, I'm thinkin' I'm back. <div class="taglinesSource">John Wick (2014)</div>`,
+	`The comfort of an easy answer (a sterotype) is that you don't have to think and, because you question none of your assumptions, you never have to face the discomfort of being wrong, even when you're hurting an entire group of people who are simply different. <div class="taglinesSource">Otros Valles (Jamie Berrout)</div>`,
+	`In retrospect, refusing to begin a gender transition because I didn’t already feel like a woman was like refusing to take flying lessons because I didn’t already feel like a pilot. <div class="taglinesSource">Amanda Roman</div>`
 ];
 
 // draw random string from taglines array and put into r variable
