@@ -116,12 +116,6 @@
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tags/poetry/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/trans/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/tags/featured/</loc>
 </url>
 <url>
@@ -129,6 +123,12 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/trans/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/poetry/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/trans-resources/</loc>
