@@ -109,7 +109,15 @@ const taglines = [
 	`Oh my God, Karen, you can't just ask people why they're white! <div class="taglinesSource">Mean Girls (2004)</div>`,
 	`People keep asking if I'm back, and I haven't really had an answer. But now, yeah, I'm thinkin' I'm back. <div class="taglinesSource">John Wick (2014)</div>`,
 	`The comfort of an easy answer (a sterotype) is that you don't have to think and, because you question none of your assumptions, you never have to face the discomfort of being wrong, even when you're hurting an entire group of people who are simply different. <div class="taglinesSource">Otros Valles (Jamie Berrout)</div>`,
-	`In retrospect, refusing to begin a gender transition because I didn’t already feel like a woman was like refusing to take flying lessons because I didn’t already feel like a pilot. <div class="taglinesSource">Amanda Roman</div>`
+	`In retrospect, refusing to begin a gender transition because I didn’t already feel like a woman was like refusing to take flying lessons because I didn’t already feel like a pilot. <div class="taglinesSource">Amanda Roman</div>`,
+	`Eventually you can't help but figure out that, while gender is a construct, so is a traffic light, and if you ignore either of them, you get hit by cars. Which, also, are constructs. <div class="taglinesSource">Nevada (Imogen Binnie)</div>`,
+	`Her body is telling her, hey fucker, I am a trans body, you need to do the things that you do to take care of a trans body. <div class="taglinesSource">Nevada (Imogen Binnie)</div>`,
+	`Jokes can be a defense mechanism, a trauma response; if you can make someone laugh before they remember that they hate people like you, you might get out of a 7-Eleven before they can hurt you. <div class="taglinesSource">Nevada (Imogen Binnie)</div>`,
+	`I've adapted to saying <i>I always knew I was a girl</i> as a defense against the louder world, which has told me ... that my girlhood was imaginary, something made up that needed to be fixed. <div class="taglinesSource">Redefining Realness (Janet Mock)</div>`,
+	`I've heard parents say all they want is "the best" for their children, but the best is subjective and anchored by how they know and learned the world. <div class="taglinesSource">Redefining Realness (Janet Mock)</div>`,
+	`My passage was an evolution from me to closer-to-me-ness. It's a journey of self-revelation. <div class="taglinesSource">Redefining Realness (Janet Mock)</div>`,
+	`Maria is transsexual and she is so meek she might disappear. <div class="taglinesSource">Nevada (Imogen Binnie)</div>`,
+	`She peers into the mirror and whispers, “I’ll make a woman out of you yet.”`
 ];
 
 // draw random string from taglines array and put into r variable
