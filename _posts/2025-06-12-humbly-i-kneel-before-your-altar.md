@@ -1,6 +1,6 @@
 ---
 layout: post-poetry
-tags: poetry trans featured
+tags: poetry trans
 title: "Humbly, I kneel before your altar."
 subtitle: "What if this is all there is?"
 heroImage: https://images.unsplash.com/photo-1727448826555-de5a31dc675a?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
