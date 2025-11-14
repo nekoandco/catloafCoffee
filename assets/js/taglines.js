@@ -117,7 +117,10 @@ const taglines = [
 	`I've heard parents say all they want is "the best" for their children, but the best is subjective and anchored by how they know and learned the world. <div class="taglinesSource">Redefining Realness (Janet Mock)</div>`,
 	`My passage was an evolution from me to closer-to-me-ness. It's a journey of self-revelation. <div class="taglinesSource">Redefining Realness (Janet Mock)</div>`,
 	`Maria is transsexual and she is so meek she might disappear. <div class="taglinesSource">Nevada (Imogen Binnie)</div>`,
-	`She peers into the mirror and whispers, “I’ll make a woman out of you yet.”`
+	`She peers into the mirror and whispers, “I’ll make a woman out of you yet.”`,
+	`What do you think people would think, if they knew their terrible Devil was some tranny and their God a fag? <div class="taglinesSource">Satan, Are You There? It's Me, Laura (Aisling, Ember Fae)</div>`,
+	`If you want not to die: you find out what people want you to be, then you perform it. <div class="taglinesSource">Notes From A Hunter Boy: As Filed By Girtrude The Librarian (Beckett K. Bauer)</div>`,
+	`Statistically, someone has to defy <i>should</i>. <div class="taglinesSource">Schwaberow, Ohio (Brendan Williams-Childs)</div>`
 ];
 
 // draw random string from taglines array and put into r variable
