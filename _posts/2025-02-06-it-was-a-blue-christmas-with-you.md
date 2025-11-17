@@ -21,7 +21,7 @@ _“Did you hear about that shooting in New York? With the United guy?”_
 
 _“Mm. Yeah, the police are making a real good show of his arrest.”_
 
-_After a time, a barista brought our coffees. I held my cappuccino with both hands, feeling its warmth spread from my palms and into my fingers and wrists. I took a deep breath. This was going to be a hard conversation. I wasn’t particularly optimistic toward its outcome, but it was a necessary discussion nonetheless. Today, those words I couldn’t say were going to be voiced, for better or worse._
+_After a time, a barista brought our coffees. I held my cappuccino with both hands, feeling its warmth spread from my palms and into my fingers and wrists. I took a deep breath. This was going to be a hard conversation. I wasn’t particularly optimistic toward its outcome, but it was a necessary discussion nonetheless. Today, those [words I couldn’t say]({% post_url 2024-10-03-words-that-i-cant-say %}) were going to be voiced, for better or worse._
 
 <div class="break"><img src="{{site.baseurl}}/assets/images/break-paws.png"></div>
 
