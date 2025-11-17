@@ -28,7 +28,7 @@ const taglines = [
 	`Still thinking about Hailee Steinfeld's spit in <i>Sinners</i>...`,
 	`<i>As if!</i> <div class="taglinesSource">Clueless (1995)</div>`,
 	`These transes are <i>OUT OF CONTROL!!!</i>`,
-	"Yes, I chose this life because it seemed so easy and glamorous!",
+	"Oh yes, I chose this life because it seemed so easy and glamorous!",
 	"doing hot girl shit (crying, screaming, throwing up)",
 	"Do these pants make my gock look fat?",
 	"Damn, chipped a nail.",
@@ -93,7 +93,7 @@ const taglines = [
 	`Dear reader, you don’t have to answer just ‘cause they asked you. <div class="taglinesSource">Taylor Swift</div>`,
 	`I'm so scared of getting what I want. Scared that it's not really what I need. <div class="taglinesSource">Annika Bennett</div>`,
 	"Oh, these? Home grown. Free range. Farm to market. Absolutely packed with hormones, though.",
-	"Don't call me an asshole, call me a bitch.",
+	"Don't call me an dick, call me a bitch.",
 	`As far back as I can remember, I always wanted to be a bad bitch. <div class="taglinesSource"><s>Goodfellas (1990)</s></div>`,
 	`*sobbing* Oh, my God. They were right. I'm a homo! <div class="taglinesSource">But I'm a Cheerleader (1999)</div>`,
 	`Learn it. Live it. Love it. <div class="taglinesSource">Jawbreaker (1999)</div>`,
@@ -121,6 +121,8 @@ const taglines = [
 	`What do you think people would think, if they knew their terrible Devil was some tranny and their God a fag? <div class="taglinesSource">Satan, Are You There? It's Me, Laura (Aisling, Ember Fae)</div>`,
 	`If you want not to die: you find out what people want you to be, then you perform it. <div class="taglinesSource">Notes From A Hunter Boy: As Filed By Girtrude The Librarian (Beckett K. Bauer)</div>`,
 	`Statistically, someone has to defy <i>should</i>. <div class="taglinesSource">Schwaberow, Ohio (Brendan Williams-Childs)</div>`
+	`We roam the desolate architecture of our slaughter houses ("the prison of civilization we live in") like ghosts who feel but cannot quite understand the vapidity of our existence. <div class="taglinesSource">Blessed is the Flame (Serafinski)</div>`,
+	`Nihilism does not demand our allegiance, because it is not a political ideology. <div class="taglinesSource">Blessed is the Flame (Serafinski)</div>`
 ];
 
 // draw random string from taglines array and put into r variable
