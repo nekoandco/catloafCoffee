@@ -120,7 +120,7 @@ const taglines = [
 	`She peers into the mirror and whispers, “I’ll make a woman out of you yet.”`,
 	`What do you think people would think, if they knew their terrible Devil was some tranny and their God a fag? <div class="taglinesSource">Satan, Are You There? It's Me, Laura (Aisling, Ember Fae)</div>`,
 	`If you want not to die: you find out what people want you to be, then you perform it. <div class="taglinesSource">Notes From A Hunter Boy: As Filed By Girtrude The Librarian (Beckett K. Bauer)</div>`,
-	`Statistically, someone has to defy <i>should</i>. <div class="taglinesSource">Schwaberow, Ohio (Brendan Williams-Childs)</div>`
+	`Statistically, someone has to defy <i>should</i>. <div class="taglinesSource">Schwaberow, Ohio (Brendan Williams-Childs)</div>`,
 	`We roam the desolate architecture of our slaughter houses ("the prison of civilization we live in") like ghosts who feel but cannot quite understand the vapidity of our existence. <div class="taglinesSource">Blessed is the Flame (Serafinski)</div>`,
 	`Nihilism does not demand our allegiance, because it is not a political ideology. <div class="taglinesSource">Blessed is the Flame (Serafinski)</div>`
 ];
