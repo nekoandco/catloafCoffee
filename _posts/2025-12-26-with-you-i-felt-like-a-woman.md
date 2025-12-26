@@ -2,7 +2,7 @@
 layout: post
 tags: trans
 title: "With you, I felt like a woman."
-subtitle: "And I believed you, too."
+subtitle: "Character development."
 heroImage: https://images.unsplash.com/photo-1720513471887-ec6525f2ca23
 published: true
 ---
