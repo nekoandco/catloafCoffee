@@ -122,7 +122,12 @@ const taglines = [
 	`If you want not to die: you find out what people want you to be, then you perform it. <div class="taglinesSource">Notes From A Hunter Boy: As Filed By Girtrude The Librarian (Beckett K. Bauer)</div>`,
 	`Statistically, someone has to defy <i>should</i>. <div class="taglinesSource">Schwaberow, Ohio (Brendan Williams-Childs)</div>`,
 	`We roam the desolate architecture of our slaughter houses ("the prison of civilization we live in") like ghosts who feel but cannot quite understand the vapidity of our existence. <div class="taglinesSource">Blessed is the Flame (Serafinski)</div>`,
-	`Nihilism does not demand our allegiance, because it is not a political ideology. <div class="taglinesSource">Blessed is the Flame (Serafinski)</div>`
+	`Nihilism does not demand our allegiance, because it is not a political ideology. <div class="taglinesSource">Blessed is the Flame (Serafinski)</div>`,
+	`That's the thing about transitioning in your twenties, I guess; you start changing a lot right when everyone you used to know starts learning the fine art of staying put. <div class="taglinesSource">Girlfriends (Emily Zhou)</div>`,
+	`What was past was not prologue, it was a springboard, evaluated for its usefulness and then discarded. <div class="taglinesSource">Girlfriends (Emily Zhou)</div>`,
+	`Watching her flirt with Nadine made me feel like I had been crazily undervaluing the potential my future life had. <div class="taglinesSource">Girlfriends (Emily Zhou)</div>`,
+	`The dead tree is as important as the living one. <div class="taglinesSource">Train Dreams (2025)</div>`,
+	`I'm sorry that bad things are going to happen to you. I hope they don't. ... But, sometimes, bad stuff just happens. <div class="taglinesSource">Sorry, Baby (2025)</div>`
 ];
 
 // draw random string from taglines array and put into r variable
