@@ -127,7 +127,10 @@ const taglines = [
 	`What was past was not prologue, it was a springboard, evaluated for its usefulness and then discarded. <div class="taglinesSource">Girlfriends (Emily Zhou)</div>`,
 	`Watching her flirt with Nadine made me feel like I had been crazily undervaluing the potential my future life had. <div class="taglinesSource">Girlfriends (Emily Zhou)</div>`,
 	`The dead tree is as important as the living one. <div class="taglinesSource">Train Dreams (2025)</div>`,
-	`I'm sorry that bad things are going to happen to you. I hope they don't. ... But, sometimes, bad stuff just happens. <div class="taglinesSource">Sorry, Baby (2025)</div>`
+	`I'm sorry that bad things are going to happen to you. I hope they don't. ... But, sometimes, bad stuff just happens. <div class="taglinesSource">Sorry, Baby (2025)</div>`,
+	`Do you know why dusk is so easy to love? Sometimes it's red, blushing happily. Sometimes it's black, dark and somber. But the sky always accepts dusk as what it is. <div class="taglinesSource">Sore: A Wife from the Future (2025)</div>`,
+	`The dead tree is as important as the living one. <div class="taglinesSource">Train Dreams (2025)</div>`,
+	`"You're not even old enough to know how bad life gets." "Obviously, doctor, you've never been a 13-year-old girl. <div class="taglinesSource">The Virgin Suicides (1999)</div>"`
 ];
 
 // draw random string from taglines array and put into r variable
