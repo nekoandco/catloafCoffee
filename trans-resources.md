@@ -3,6 +3,7 @@ layout: resourcelist
 title: "[WIP] Trans resources and media"
 subtitle: "Everything I've found useful."
 updated: 2026.01.07
+published: false
 heroImage: https://catloafcoffee.com/assets/images/loose/transFlag.svg
 ---
 ![trans flag]({{site.baseurl}}/assets/images/loose/transFlag.svg)

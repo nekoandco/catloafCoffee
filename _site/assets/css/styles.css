@@ -12137,7 +12137,7 @@ a:hover {
 .taglines {
   font-family: "Zain", sans-serif;
   font-weight: bold;
-  font-size: 2em;
+  font-size: 1.75rem;
   overflow-wrap: break-word;
   line-height: 95%;
   max-width: 70%;
@@ -12151,6 +12151,8 @@ a:hover {
   font-weight: normal;
   font-style: italic;
   font-size: 1rem;
+  line-height: 97%;
+  margin-top: 5px;
 }
 
 .alert {
@@ -12304,10 +12306,8 @@ a:hover {
 }
 
 .hero img {
-  /* height: 100%;
-  width: 100%; */
-  max-height: 350px;
-  max-width: 750px;
+  max-height: 100%;
+  max-width: 75%;
   box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
   transition: all 0.5s ease;
   border-radius: 5px;
