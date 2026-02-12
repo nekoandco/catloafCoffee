@@ -503,7 +503,7 @@ With that, I think I’ve rambled for long enough. There will be plenty of time 
 Here’s to new beginnings.
 
 Sage 🌿  
-~~they/them (for now)~~ she/they  
+~~they/them (for now)~~ ~~she/they~~ she/her  
 🏳️‍⚧️
 
 <h2 id="section12">Acknowledgments</h2>

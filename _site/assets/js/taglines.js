@@ -131,8 +131,11 @@ const taglines = [
 	`Do you know why dusk is so easy to love? Sometimes it's red, blushing happily. Sometimes it's black, dark and somber. But the sky always accepts dusk as what it is. <div class="taglinesSource">Sore: A Wife from the Future (2025)</div>`,
 	`The dead tree is as important as the living one. <div class="taglinesSource">Train Dreams (2025)</div>`,
 	`"You're not even old enough to know how bad life gets." "Obviously, doctor, you've never been a 13-year-old girl. <div class="taglinesSource">The Virgin Suicides (1999)</div>"`,
-	`"Normal" society is irredeemable. Barbaric. There's nothing wrong with being like me if the alternative is being like <i>them</i>. <div class="taglinesSource">Trans/Rad/Fem (Talia Bhatt)</div>`
+	`"Normal" society is irredeemable. Barbaric. There's nothing wrong with being like me if the alternative is being like <i>them</i>. <div class="taglinesSource">Trans/Rad/Fem (Talia Bhatt)</div>`,
+	`The freedom to choose is no freedom at all when every option is a cage, just a different degree of oppression rather than actual, authentic emancipation. <div class="taglinesSource">Trans/Rad/Fem (Talia Bhatt)</div>`,
+	`Kill the man who wears your face, and tear his flesh apart to reveal your own. <div class="taglinesSource">Trans/Rad/Fem (Talia Bhatt)</div>`
 ];
+//after adding quotes, update call in index.html to force refresh
 
 // draw random string from taglines array and put into r variable
 let i = Math.floor(Math.random() * taglines.length);
