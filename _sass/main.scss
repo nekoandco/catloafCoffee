@@ -202,6 +202,15 @@ a:hover {
   color: #ffbcd9;
 }
 
+.spoiler {
+  filter: brightness(0);
+  transition: filter 0.5s ease-in-out;
+  }
+
+.spoiler:hover, .spoiler:focus {
+  filter: brightness(1);
+}
+
 .titlefont {
   font-family: "Jua", sans-serif;
 }
