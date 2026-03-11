@@ -460,7 +460,7 @@ This has to stop. I literally cannot continue to live in this way. Sage will nev
 
 I don’t know what happened last night. Maybe Michelle was right and Luna got nervous when she realized things were moving along, or maybe she was never interested in me to begin with. Maybe I said something that made her uncomfortable, or maybe I annoyed her with all my questions. It doesn’t matter. Sometimes things don’t work out and it’s no one’s fault, really. That’s just life.
 
-*Life.* That word echoes around in my brain. One year ago, I was a walking corpse but look at me now! I’m in a yogurt shop bitching with my girlfriend about some cute girl I met. Sure, maybe things didn’t work out how I’d hoped, but this is life! This is living. I am alive right now.
+*Life.* That word echoes around in my brain. One year ago, I was a walking corpse but look at me now! I’m in a yogurt shop bitching with my girl-friend about some cute girl I met. Sure, maybe things didn’t work out how I’d hoped, but this is life! This is living. I am alive right now.
 
 The shopkeeper approaches our table and politely informs us the store is closing in five minutes. I take one last bite of my yogurt and look at Michelle. “Shall we go?” I ask. She nods.
 
