@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: trans
+tags: trans featured
 title: "With you, I felt like a woman."
 subtitle: "Character development."
 heroImage: https://images.unsplash.com/photo-1720513471887-ec6525f2ca23
