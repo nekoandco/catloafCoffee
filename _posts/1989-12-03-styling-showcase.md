@@ -8,6 +8,8 @@ Lorem ipsum dolor sit amet, **BOLD** adipiscing elit. Fusce bibendum neque eget 
 
 ![sample image]({{site.baseurl}}/assets/images/example.jpg)
 
+<div class="spoiler"><img src="{{site.baseurl}}/assets/images/example.jpg"></div>
+
 Here's a sentence with a footnote. [^1]
 
 ## Some great heading (h2)
