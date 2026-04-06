@@ -51,4 +51,4 @@ Alongside you.
 But maybe I’m wasting my time,  
 Hoping for a future that will never be.  
 Maybe I’ll never be anyone’s daughter,  
-Merely the shattered memories of a son that never was.  
+Forever resigned to shattered memories.

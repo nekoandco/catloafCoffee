@@ -42,7 +42,7 @@ do you feel it, too?
 The yearning:  
 an endless void,  
 a painful aching of the heart,  
-a knowing that something vital is missing.  
+a sense that something is missing.  
 
 To desire,  
 and to be desired—  
