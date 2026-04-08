@@ -65,12 +65,11 @@ bend me over,
 spit in my mouth,  
 make me your bitch.  
 
-Rail me.  
+Degrade me.  
 Make me cum.  
 
-I can barely stand it!  
-My hunger for you roars and rumbles;  
-sometimes it feels like too much to bear.  
+Slowly suffocating,  
+my hunger for you is a raging torrent.  
 
 I’m told it’s better this way,  
 so I’m spared the heartbreak.  
