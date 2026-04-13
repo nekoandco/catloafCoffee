@@ -1,6 +1,6 @@
 ---
 layout: post
-tags:
+tags: sapphic
 title: "a warm winter’s night"
 subtitle: "it was perfect, until it wasn’t"
 heroImage: https://images.unsplash.com/photo-1775653619815-762f02edc74b

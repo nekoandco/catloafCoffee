@@ -1,6 +1,6 @@
 ---
 layout: post-poetry
-tags: poetry
+tags: poetry sapphic
 title: "about a girl"
 subtitle: "someday, someplace"
 heroImage: https://images.unsplash.com/photo-1542295474-5e78124e5d59
