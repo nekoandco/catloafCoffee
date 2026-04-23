@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: trans autism
+tags: trans sapphic autism
 title: "Sad Bitch Hour: What’s the opposite of a social butterfly?"
 subtitle: "Social cues? I hardly know her!"
 heroImage: https://catloafcoffee.com/assets/images/sadBitchHour/socialButterflyHeader.png
