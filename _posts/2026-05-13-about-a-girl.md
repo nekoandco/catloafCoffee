@@ -72,8 +72,8 @@ Slowly suffocating
 my hunger for you is a raging torrent.  
 
 I’m told it’s better this way  
-so I’m spared the heartbreak.  
-But I don’t mind if you hurt me.  
+so I’m spared the heartbreak  
+but I don’t mind if you hurt me.  
 
 For if only a short time  
 it will have been worth it to have been loved by you.
