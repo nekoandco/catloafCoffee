@@ -4,7 +4,7 @@ tags:
 title: "👋  catloaf & coffee has left Substack!"
 subtitle: "Welcome, one and all!"
 heroImage:
-published: true
+published: false
 ---
 
 **catloaf & coffee** has left Substack for its own website: the very one you’re on right now! I’ve spent the past month-and-a-half learning HTML, CSS and some other stuff to create this site—no website building tool here! It’s been a really fun learning process, and it wasn’t as difficult as I thought it would be.
