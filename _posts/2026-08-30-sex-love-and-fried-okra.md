@@ -1,10 +1,10 @@
 ---
 layout: post
-tags: sapphic trans
+tags: sapphic trans autism
 title: "Sex, love, and fried okra"
 subtitle: "A beautiful accident."
 heroImage: https://images.unsplash.com/photo-1587230969143-b830cd7df113
-published: false
+published: true
 ---
 
 ![woman holding bare chest, with rainbow paint smeared all over](https://images.unsplash.com/photo-1587230969143-b830cd7df113)
@@ -30,7 +30,7 @@ published: false
 ## Descent
 *And there she was,*
 
-*looking so pretty, shaded in a crevice between two buildings across the café. Her curly brown hair flowed past her shoulders, resting on a porous brown knit. As I approached, she flashed a brilliant toothy smile embraced by big rosy cheeks, and at once I felt at ease…*
+*looking so pretty, shaded in a crevice between two buildings across the café. Her curly brown hair flowed past her shoulders, resting on a porous brown knit. As I approached, she flashed a brilliant toothy smile embraced by sun-kissed rosy cheeks, and at once I felt at ease…*
 
 *Over coffee, she spoke of riots and protests in her home country. Of disillusionment with the world, and her plans to fix it. Of fantastic plans for flying machines and biomechanical fish. Of grandiose plots for world domination. In a moderately thick European accent she spoke, its origin I couldn’t place, but with each word she uttered I was drawn further in. There was something about her that was wildly charming. She fascinated me, like a puzzle I couldn’t quite figure out but had to solve. I wanted- No, I needed to know her…*
 
@@ -268,7 +268,7 @@ She gives some background on herself and her home country, then presents some al
 
 I haven’t seen this version of Ruby before, but I like her. She’s relaxed and well spoken; a natural presenter. It’s very attractive.
 
-We break into small groups to discuss ways in which we can resist in our personal lives. I explain how I fought to use the women’s restroom at work. Someone else laments the callousness of their workplace’s leadership. Another discusses their trans partner’s difficulties living in Japan. A voice from across the room shouts, *fuck AI*!
+We break into small groups to discuss ways in which we can resist in our personal lives. I explain how I fought to use the women’s restroom at work. Someone else laments the callousness of their workplace’s leadership. Another discusses their trans partner’s difficulties living in Japan. A voice from across the room shouts, *fuck AI!*
 
 I agree, disembodied voice. Fuck AI.
 
@@ -335,13 +335,13 @@ Ruby is so absorbed, she doesn’t notice me admiring her, illuminated in pale b
 
 Past jellyfish and crabs and lobsters and octopi, we end our time at the aquarium with the seal habitat. A round viewing platform looks down into the seal’s tank, with tall rocks jutting out from the water. One seal snores loudly on a rock, swaying back and forth with the waves. It looks like a gray oval with a face. Adorable.
 
-The seal’s flipper slowly rises into the air, and quickly crashes down, making a loud *smack!* that reverberates off the enclosure’s walls. Ruby and I giggle for several minutes like schoolgirls, and my sides start to hurt.
+The seal’s flipper slowly rises into the air, and quickly crashes down against its belly, making a loud *smack!* that reverberates off the enclosure’s walls. Ruby and I giggle for several minutes like schoolgirls, and my sides start to hurt.
 
 These moments are a dime a dozen with Ruby. Each hour I spend with her is filled with laughter and smiles. Life is simply lovely with her.
 
 We exit the aquarium, plunging into the wet onslaught once again, and I lead Ruby through the flooded streets in pursuit of dinner. Our destination: an upscale shabu-shabu—or hot pot—restaurant, its interior dark and moody with wood panel accents. Perfect for a date night.
 
-We order the standard all-you-can-eat course, and engorge ourselves on pork and veggies, all the while talking about this and that. Our chatter is interrupted by occasional bouts of silence, as I stare into Ruby’s big brown eyes and she stares back into mine, and we just stay like that for a while. These aren’t looks of mere admiration or lust. Ruby sees me in a way no one else does. She understands me: my convictions, my values, the way my brain works. I don’t feel like a mystery to her.
+We order the standard all-you-can-eat course, and engorge ourselves on pork and veggies, all the while talking about this and that. Our chatter is interrupted by occasional bouts of silence, as I stare into Ruby’s big brown eyes and she stares back into mine, and we stay like that for a while. These aren’t looks of mere admiration or lust. Ruby sees me in a way no one else does. She understands me: my convictions, my values, the way my brain works. With most people I feel like a mystery, but not with her.
 
 Two hours later and a few pounds heavier, we brave the downpour once more and return home. We make love, then drift asleep in each other’s arms. In the morning, I awake enveloped in her warmth and it hits me:
 
@@ -358,7 +358,7 @@ Screams echo through the bank’s marbled interior as a blonde mullet-ed man in 
 
 John Carpenter’s *They Live* was a good choice. It’s the perfect mix of action, silliness, and anti-capitalist messaging that’s right up Ruby’s alley. The movies I’ve played for her in the past—like *Clueless* or *The Devil Wears Prada*—failed to hold her interest, but today she is glued to the screen.
 
-Mr. Mullet is chased through the city by alien invaders, has a run-in with an attractive newscaster, and rallies his buddy to make a stand. The pair force their way to the news broadcast building and shoot their way to its rooftop. Then, a betrayal! The femme fatale has sided with the aliens, and kills Mullet’s partner. She shoots him, too, and the camera zooms in on Mullet as he bleeds out. He smiles, knowing his sacrifice isn’t in vain, as the broadcast’s antenna lies in pieces around him, interrupting the broadcast enslaving the human race. 80’s synth and electric guitar wails as credits swim up the screen. What a classic.
+Mr. Mullet is chased through the city by alien invaders, has a run-in with an attractive newscaster, and rallies his buddy to make a stand. The pair force their way to the news broadcast building and shoot their way to its rooftop. Then, a betrayal! The femme fatale has sided with the aliens, and kills Mullet’s partner. She shoots Mullet, too, and the camera zooms in on him as he bleeds out. He smiles, knowing his sacrifice isn’t in vain, as the broadcast’s antenna lies in pieces around him, interrupting the broadcast enslaving the human race. 80’s synth and electric guitar wails as credits swim up the screen. What a classic.
 
 I close the laptop. “Do you want to open your birthday present?” I ask slyly.
 
@@ -429,28 +429,28 @@ Giggling, we begin walking back home, both of us relieved at finally having foun
 ## Coda
 *Do you know why I love you?*
 
-*It’s the way you delight in little critters.*
-*It’s the way you melt when I say you’re pretty.*
+*It’s the way you delight in little critters.*  
+*It’s the way you melt when I say you’re pretty.*  
 *It’s the way you put me at ease no matter the situation.*
 
-*Your eyes, big and brown, wondrously expressive.*
-*Your hair, thick and curly, cheerfully bouncing as you step.*
+*Your eyes, big and brown, wondrously expressive.*  
+*Your hair, thick and curly, cheerfully bouncing as you step.*  
 *Your lips, pretty and soft, lovely when pressed against mine.*
 
-*You bring out the best in me.*
-*You help me be the woman I want to be,*
-*and avoid becoming the woman I was taught to be.*
+*You bring out the best in me.*  
+*You help me be the woman I want to be,*  
+*and steer from the woman I was taught to be.*
 
-*With you, I see a future big and bright.*
-*One filled with smiles, laughter, and happy memories.*
+*With you, I see a future big and bright.*  
+*One filled with smiles, laughter, and happy memories.*  
 *Hardships, too, but together we can overcome anything.*
 
-*Strong, brave, intelligent, beautiful, kind —*
-*You are all of these things and more.*
+*Strong, brave, intelligent, beautiful, kind —*  
+*You are all of these things and more.*  
 *I am so lucky to have met you.*
 
-*For loving me,*
-*for trusting me,*
+*For loving me,*  
+*for trusting me,*  
 *for sharing your light with the world —*
 
 *I love you.*
